@@ -1,16 +1,22 @@
 import pandas
 from datetime import datetime
-import matplotlib.pyplot as plt
+from city2country import *
 
 keys = ['date','ground']
+data_folder = 'data'
 
 def parse_date(d):
     return datetime.strptime(d, '%d %b %Y')
+
+def remove_v(s):
+    print s
+    return s.replace("v ","")
     
 def initial_dataset():
-    df = pandas.read_csv('matches.csv')
+    df = pandas.read_csv('{0}/matches.csv'.format(data_folder))
     df['match_diff'] = df['team_score'] - df['rival_score']
     df['date'] = df['date'].apply(parse_date)
+    df['rival_name'] = df['rival_name'].apply(remove_v)
     return df
 
 def joined_dataset(df):
@@ -25,27 +31,31 @@ def joined_dataset(df):
     return df_renamed
 
 
-df = initial_dataset()
-df = joined_dataset(df)
 
-def last10_average(row):
+def last10_average(df,row):
     last10 = df[df['team_id'] == row['team_id']][df['date'] < row['date']].sort('date',ascending=False).head(10)
     return last10['match_diff'].mean()
 
-def last10_rival_average(row):
+def last10_rival_average(df,row):
     last10_rival = df[df['team_id'] == row['rival_id']][df['date'] < row['date']].sort('date',ascending=False).head(10)
     return last10_rival['match_diff'].mean()
 
-df_last10 = pandas.DataFrame.from_records([{"index": index, "average" : last10_average(row), "average_rival": last10_rival_average(row)} for index, row in df.iterrows()], index="index")
-df['last10_avg_diff'] = df_last10['average'] - df_last10['average_rival']
+def add_average_last10(df):
+    df_last10 = pandas.DataFrame.from_records([{"index": index, "average" : last10_average(df,row), "average_rival": last10_rival_average(df,row)} for index, row in df.iterrows()], index="index")
+    df['team_last10_avg_diff'] = df_last10['average'] 
+    df['rival_last10_avg_diff'] = df_last10['average_rival'] 
+    return df
 
+def step1():
+    df = initial_dataset()
+    df = joined_dataset(df)
+    df = add_average_last10(df)
+    df.to_csv("{0}/proc_matches.csv".format(data_folder))
 
-groupedby_result = df.groupby(['result'])['last10_avg_diff']
-print groupedby_result.describe()
-groupedby_result.plot(kind='hist',bins=30, stacked=True,alpha=0.5, orientation='horizontal')
-plt.show()
+def step2(df):
+    df = pandas.read_csv("{0}/proc_matches.csv".format(data_folder))
+    df = df[0:100]
+    df['ground_country'] = df.apply(which_country)
 
-#df_grouped = df_renamed.sort('date').groupby(['team_id'])
-#df_grouped_list = df_grouped['team_id']
-#df_grouped['last_10'] = df_grouped.head(10).groupby('team_id')['match_diff'].mean()
+step1()
 
