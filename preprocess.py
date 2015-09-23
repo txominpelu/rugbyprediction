@@ -9,7 +9,6 @@ def parse_date(d):
     return datetime.strptime(d, '%d %b %Y')
 
 def remove_v(s):
-    print s
     return s.replace("v ","")
     
 def initial_dataset():
@@ -52,10 +51,13 @@ def step1():
     df = add_average_last10(df)
     df.to_csv("{0}/proc_matches.csv".format(data_folder))
 
-def step2(df):
+def step2():
     df = pandas.read_csv("{0}/proc_matches.csv".format(data_folder))
     df = df[0:100]
-    df['ground_country'] = df.apply(which_country)
+    df['ground_country'] = df[['rival_name','team_name','ground']].apply(which_country, axis=1)
+    df['home_match'] = df['ground_country'] == df['team_name']
+    df.to_csv("{0}/ground_matches.csv".format(data_folder))
 
-step1()
+#step1()
+step2()
 
