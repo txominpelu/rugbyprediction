@@ -1,35 +1,50 @@
-# %load machine_learning.py
+#!/usr/bin/env python
+from __future__ import division
 import pandas
 from sklearn.ensemble import RandomForestClassifier
 import random
+from sklearn import tree
+from sklearn import cross_validation
 
 df = pandas.read_csv('data/ground_matches.csv')
 df['team_last10_avg_diff'].fillna(0, inplace=True)
 df['rival_last10_avg_diff'].fillna(0, inplace=True)
-rows = random.sample(df.index, 30)
+df['team_last10_avg_same_match_diff'].fillna(0, inplace=True)
+df['team_last10_avg_reverse_match_diff'].fillna(0, inplace=True)
 
-df_30 = df.ix[rows]
-df_70 = df.drop(rows)
-
-clf = RandomForestClassifier(n_estimators=10)
-consider_columns = ['team_last10_avg_diff','rival_last10_avg_diff','home_match']
-df_70_nt = df_70[consider_columns]
-df_30_nt = df_30[consider_columns]
-
-df_70_t = df_70['result']
-clf = clf.fit(df_70_nt, df_70_t)
+def sample(percent):
+    rows = random.sample(df.index, percent)
+    df_30 = df.ix[rows]
+    df_70 = df.drop(rows)
+    return (df_30, df_70)
 
 def draw_decission_tree():
-    from sklearn import tree
-    tree.export_graphviz(clf,
     clf2 = tree.DecisionTreeClassifier()
-    tree.export_graphviz(clf,
-    ...     out_file='tree.dot')
-    clf2 = clf2.fit(df_70_nt, df_70_t)
-    tree.export_graphviz(clf2,
-    ...     out_file='tree.dot')
-    predictions = clf.predict(df_30_nt)
+    tree.export_graphviz(clf2, out_file='tree.dot')
 
-results = [i for i in df_30['result']]
-from __future__ import division
-len ([(a,b) for (a,b) in zip(results, predictions) if a == b]) / len(predictions)
+
+df_30, df_70 = sample(30)
+
+def see_prediction_precision(result_column):
+    clf = RandomForestClassifier(n_estimators=10)
+    consider_columns = ['team_last10_avg_diff','rival_last10_avg_diff','home_match','team_last10_avg_same_match_diff', 'team_last10_avg_reverse_match_diff'] 
+    #consider_columns = ['team_last10_avg_diff','rival_last10_avg_diff','home_match'] 
+    target = df[result_column]
+    data = df[consider_columns]
+    for i in range(0,4):
+        X_train, X_test, y_train, y_test = cross_validation.train_test_split(data, target, test_size=0.4, random_state=0)
+        clf = clf.fit(X_train, y_train)
+        print "Percentage:"
+        print clf.score(X_test, y_test)
+
+	#print "Failed at:"
+	#print "Tested for:"
+	#prediction = clf.predict(X_test)
+	#X_test['result'] = y_test
+	#X_test['prediction'] = prediction
+	#print X_test
+
+print "Prediction b_match_diff"
+see_prediction_precision('b_match_diff')
+print "Prediction result"
+see_prediction_precision('result')
