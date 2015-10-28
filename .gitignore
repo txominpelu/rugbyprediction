@@ -3,4 +3,6 @@ appenv
 .*.swp
 .*.swo
 *.pyc
+.DS_Store
+.ipynb_checkpoints/
 
