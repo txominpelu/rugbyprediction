@@ -2,6 +2,7 @@ import scrapy
 import re
 import urllib2
 import json
+from datetime import datetime
 
 
 class MatchItem(scrapy.Item):
@@ -25,8 +26,17 @@ class MatchItem(scrapy.Item):
 class BlogSpider(scrapy.Spider):
 
     name = 'blogspider'
-    base_url = 'http://en.espn.co.uk/statsguru/rugby/team/{0}.html?class=1;spanmin1=01+Jan+2000;spanval1=span;template=results;type=team;view=results'
-    start_urls = [base_url.format(i) for i in xrange(1,140)]
+    base_url = 'http://en.espn.co.uk/statsguru/rugby/team/{team}.html?class=1;spanmin1={spanmin};spanmax={spanmax};spanval1=span;template=results;type=team;view=results'
+    DATE_BEGIN = urllib2.quote("01 Jan 2000")
+
+    def date_now(self):
+	return urllib2.quote(datetime.now().strftime("%d %b %Y"))
+
+    def __init__(self, spanmin=None, spanmax=None):
+	self.spanmin = spanmin if spanmin else DATE_BEGIN
+	self.spanmax = spanmax if spanmax else self.date_now()
+        self.start_urls = [self.base_url.format(team=i,spanmin=self.spanmin,spanmax=self.spanmax) for i in xrange(1,140)]
+	
 
     def parse(self, response):
         sites = response.css('table.engineTable:nth-child(4) tr')[1:]
