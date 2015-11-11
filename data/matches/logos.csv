@@ -1,0 +1,532 @@
+home_name,competition_name,gameId,hta,away_id,htf,away_logo,league,home_id,home_score,result,date,away_score,home_logo,away_name,ground
+Australia,Rugby World Cup,236311,15,2,16,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,164205,6,35,lost,18 Oct 2015,34,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,Scotland,Twickenham
+England,Rugby World Cup,181969,18,14,8,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,164205,1,35,lost,18 Sep 2015,11,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Fiji,Twickenham
+Australia,Rugby World Cup,236319,16,8,3,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,164205,6,17,lost,31 Oct 2015,34,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,New Zealand,Twickenham
+Argentina,Rugby World Cup,236317,0,5,16,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,164205,10,13,won,30 Oct 2015,24,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,South Africa,London
+England,Rugby World Cup,182003,3,29,21,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,164205,1,60,won,10 Oct 2015,3,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Uruguay,Manchester
+Fiji,Rugby World Cup,181997,10,29,26,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,164205,14,47,won,6 Oct 2015,15,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Uruguay,Milton Keynes
+Argentina,Rugby World Cup,236309,20,3,10,http://img.scrum.com/scrum/IRFU.png,164205,10,43,lost,18 Oct 2015,20,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Ireland,Millennium Stadium
+Japan,Rugby World Cup,182005,17,11,8,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,164205,23,28,lost,11 Oct 2015,18,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,United States of America,Gloucester
+Wales,Rugby World Cup,181989,17,14,6,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,164205,4,23,lost,1 Oct 2015,13,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Fiji,Millennium Stadium
+Philippines,Asian 5 Nations - Divisio,262847,-,17,-,,262825,136,14,won,9 May 2015,27,,Sri Lanka,Ciudad de Victoria
+Canada,United States of America tour,263331,6,11,17,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,270299,25,23,won,22 Aug 2015,41,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,United States of America,Nepean
+Sri Lanka,2015 Rugby World Cup Qualifier,214947,19,136,17,,161354,17,25,lost,17 May 2014,26,,Philippines,Colombo
+Kazakhstan,Asian 5 Nations - Divisio,262843,7,17,22,,262825,95,14,won,6 May 2015,35,,Sri Lanka,Ciudad de Victoria
+Italy,Six Nations,180676,6,1,24,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,180658,20,11,won,15 Mar 2014,52,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,England,Rome
+Namibia,Rugby World Cup,181980,6,8,34,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,164205,82,14,won,24 Sep 2015,58,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,New Zealand,London
+New Zealand,Rugby World Cup,182001,3,16,14,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,164205,8,47,won,9 Oct 2015,9,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,Tonga,Newcastle
+Georgia,Rugby World Cup,181991,10,8,22,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,164205,81,10,won,2 Oct 2015,43,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,New Zealand,Millennium Stadium
+Japan,2015 Rugby World Cup Qualifier,214941,68,17,0,,161354,23,132,lost,10 May 2014,10,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Sri Lanka,Nagoya
+Sri Lanka,2015 Rugby World Cup Qualifier,214939,29,26,0,,161354,17,10,lost,3 May 2014,41,,Hong Kong,Colombo
+Ukraine,FIRA Championship D1,273009,15,13,0,,239921,84,30,lost,17 Oct 2015,14,,Poland,Khmelnytski
+Canada,Pacific Nations Cup,257957,15,16,10,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,256449,25,18,won,24 Jul 2015,28,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Tonga,Vancouver
+Namibia,Rugby World Cup,181988,7,16,22,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,164205,82,21,won,29 Sep 2015,35,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,Tonga,Exeter
+Canada,Pacific Nations Cup,257965,3,11,12,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,256449,25,13,won,3 Aug 2015,15,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,United States of America,Vancouver
+Italy,Rugby World Cup,182008,22,12,3,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,164205,20,32,lost,11 Oct 2015,22,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,Romania,Exeter
+Georgia,Tonga tour,227303,6,16,3,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,209459,81,9,won,8 Nov 2014,23,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Tonga,Tbilisi
+Japan,Pacific Nations Cup,257967,11,16,16,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,256449,23,20,won,3 Aug 2015,31,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Tonga,Vancouver
+New Zealand,England tour,207953,6,1,29,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,207947,8,36,won,21 Jun 2014,13,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,England,Hamilton
+Georgia,Rugby World Cup,181971,10,16,3,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,164205,81,17,lost,19 Sep 2015,10,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Tonga,Gloucester
+England,New Zealand tour,203137,14,8,11,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,201109,1,21,won,8 Nov 2014,24,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,New Zealand,Twickenham
+New Zealand,England tour,207949,9,1,9,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,207947,8,20,won,7 Jun 2014,15,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,England,Auckland
+Canada,Rugby World Cup,181998,8,12,0,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,164205,25,15,won,6 Oct 2015,17,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Romania,Leicester
+Korea,2015 Rugby World Cup Qualifier,214935,30,17,3,,161354,49,59,lost,26 Apr 2014,3,,Sri Lanka,Incheon
+Romania,Six Nations B,240001,9,81,3,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,239925,12,6,lost,21 Mar 2015,15,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Georgia,Bucharest
+Romania,Nations Cup,249665,3,18,16,,249659,12,35,won,12 Jun 2015,9,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Spain,Bucharest
+Russia,Six Nations B,239987,3,12,10,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,239925,57,16,lost,28 Feb 2015,13,,Romania,Krasnodar
+New Zealand,England tour,207951,10,1,6,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,207947,8,28,won,14 Jun 2014,27,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,England,Dunedin
+Romania,Six Nations B,239979,3,18,12,,239925,12,29,won,14 Feb 2015,8,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Spain,Cluj
+Romania,Nations Cup,249669,3,82,17,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,249659,12,43,won,17 Jun 2015,3,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Namibia,Bucharest
+Romania,Tonga tour,268229,10,16,6,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,264135,12,16,lost,5 Sep 2015,21,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Tonga,Bucharest
+Romania,2015 Rugby World Cup Qualifier,190265,0,21,14,,161354,12,29,won,8 Mar 2014,10,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Belgium,Constanta
+Romania,2015 Rugby World Cup Qualifier,190257,3,18,13,,161354,12,32,won,22 Feb 2014,6,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Spain,Cluj
+Georgia,2015 Rugby World Cup Qualifier,190267,16,12,9,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,161354,81,22,lost,15 Mar 2014,9,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Romania,Tbilisi
+Romania,Canada tour,240813,3,25,6,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,240791,12,18,won,22 Nov 2014,9,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Canada,Bucharest
+Portugal,Six Nations B,239971,3,12,23,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,239925,27,10,won,7 Feb 2015,37,,Romania,Lisbon
+Romania,Nations Cup,220529,10,57,6,,220515,12,20,won,18 Jun 2014,18,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Russia,Bucharest
+Poland,FIRA Championship D1,240039,10,84,11,,239921,13,17,lost,9 May 2015,20,,Ukraine,Krakow
+Romania,Nations Cup,220531,17,182835,3,,220515,12,10,lost,22 Jun 2014,31,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Emerging Ireland,Bucharest
+Russia,2015 Rugby World Cup Qualifier,190251,3,12,10,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,161354,57,3,won,8 Feb 2014,34,,Romania,Tuapse
+Romania,2015 Rugby World Cup Qualifier,190243,0,27,16,,161354,12,24,won,1 Feb 2014,0,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Portugal,Cluj
+Belgium,FIRA Championship D1,240015,27,13,9,,239921,21,53,lost,18 Apr 2015,23,,Poland,Brussels
+Sweden,FIRA Championship D1,272997,5,13,17,,239921,31,11,won,12 Sep 2015,29,,Poland,Enkoping
+Romania,Japan tour,240807,9,23,10,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,227299,12,13,lost,15 Nov 2014,18,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Japan,Bucharest
+Poland,FIRA Championship D1,239927,10,31,14,,239921,13,29,won,6 Sep 2014,17,,Sweden,Warsaw
+Ukraine,FIRA Championship D1,190299,15,13,6,,168469,84,29,lost,26 Apr 2014,28,,Poland,Lvov
+Moldova,FIRA Championship D1,239963,31,13,13,,239921,94,48,lost,15 Nov 2014,25,,Poland,Chisinau
+New Zealand,Rugby Championship,244305,18,10,6,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,244293,8,39,lost,17 Jul 2015,18,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,Argentina,Christchurch
+Argentina,Rugby World Cup,181976,12,8,13,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,164205,10,16,lost,20 Sep 2015,26,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,New Zealand,Wembley
+Argentina,Rugby World Cup,181981,9,81,14,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,164205,10,54,won,25 Sep 2015,9,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Georgia,Gloucester
+Poland,FIRA Championship D1,190275,7,94,12,,168469,13,12,lost,5 Apr 2014,21,,Moldova,Siedlce
+Romania,Nations Cup,220525,13,29,13,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,220515,12,34,won,13 Jun 2014,16,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,Uruguay,Bucharest
+Paraguay,South American Championship,263765,0,10,36,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,259375,53,7,won,23 May 2015,71,,Argentina,Asuncion
+Argentina,Rugby World Cup,181995,13,16,20,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,164205,10,45,won,4 Oct 2015,16,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Tonga,Leicester
+Argentina,Rugby World Cup,182006,7,82,36,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,164205,10,64,won,11 Oct 2015,19,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Namibia,Leicester
+New Zealand,Rugby Championship,207965,13,10,6,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,207941,8,28,lost,6 Sep 2014,9,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,Argentina,Napier
+Uruguay,South American Championship,263763,9,10,24,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,259375,29,14,won,16 May 2015,36,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Argentina,Montevideo
+Poland,FIRA Championship D1,239931,3,22,6,,239921,13,9,won,18 Oct 2014,8,,Netherlands,Warsaw
+Argentina,Rugby Championship,207973,20,8,6,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,207941,10,13,lost,27 Sep 2014,34,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,New Zealand,La Plata
+United States of America,Pacific Nations Cup,256471,11,23,9,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,256449,11,23,won,24 Jul 2015,18,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,Japan,Sacramento
+Italy,Argentina tour,227309,12,10,10,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,209457,20,18,won,14 Nov 2014,20,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,Argentina,Genova
+Tonga,Pacific Nations Cup,257963,16,11,3,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,256449,16,33,lost,29 Jul 2015,19,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,United States of America,Toronto
+England,Rugby World Cup,181982,16,4,9,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,164205,1,25,won,26 Sep 2015,28,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Wales,Twickenham
+Uruguay,South American Championship,222815,6,10,25,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,222789,29,9,won,17 May 2014,65,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Argentina,Paysandu
+Tonga,Tonga tour,240805,14,11,12,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,209459,16,40,lost,15 Nov 2014,12,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,United States of America,Gloucester
+United States of America,Pacific Nations Cup,214963,28,25,18,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,214931,11,38,won,21 Jun 2014,35,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,Canada,Sacramento
+Chile,South American Championship,222825,9,10,38,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,222789,28,12,won,25 May 2014,73,,Argentina,Santiago
+Italy,Six Nations,180691,13,4,14,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,180659,20,20,won,21 Mar 2015,61,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,Wales,Rome
+Wales,New Zealand tour,218865,3,8,3,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,201109,4,16,lost,22 Nov 2014,34,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,New Zealand,Millennium Stadium
+United States of America,Pacific Nations Cup,214957,17,23,17,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,214931,11,29,lost,14 Jun 2014,37,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,Japan,Carson
+Romania,United States of America tour,240801,3,11,17,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,240795,12,17,won,8 Nov 2014,27,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,United States of America,Bucharest
+Wales,Six Nations,180679,8,1,16,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,180659,4,16,lost,6 Feb 2015,21,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,England,Millennium Stadium
+United States of America,New Zealand tour,225417,43,8,6,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,201109,11,6,lost,1 Nov 2014,74,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,New Zealand,Chicago
+England,Six Nations,180675,20,4,15,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,180658,1,29,lost,9 Mar 2014,18,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Wales,Twickenham
+Wales,Italy tour,252323,11,20,8,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,252321,4,23,won,5 Sep 2015,19,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Italy,Millennium Stadium
+Wales,Rugby World Cup,181974,9,29,28,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,164205,4,54,won,20 Sep 2015,9,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Uruguay,Millennium Stadium
+United States of America,2015 Rugby World Cup Qualifier,203925,13,29,3,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,161354,11,32,won,29 Mar 2014,13,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,Uruguay,Atlanta
+Uruguay,2015 Rugby World Cup Qualifier,203923,19,11,13,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,161354,29,27,draw,22 Mar 2014,27,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,United States of America,Montevideo
+Japan,Rugby World Cup,181993,20,15,0,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,164205,23,26,lost,3 Oct 2015,5,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Samoa,Milton Keynes
+Samoa,New Zealand tour,240555,12,8,3,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,240797,15,16,lost,8 Jul 2015,25,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,New Zealand,Apia
+Samoa,Rugby World Cup,181975,8,11,14,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,164205,15,25,won,20 Sep 2015,16,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,United States of America,Brighton
+Wales,Six Nations,180664,3,20,17,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,180658,4,23,won,1 Feb 2014,15,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Italy,Millennium Stadium
+United States of America,Pacific Nations Cup,257955,3,15,21,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,256449,11,16,won,18 Jul 2015,21,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,Samoa,San Jose
+Canada,Pacific Nations Cup,257961,13,15,3,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,256449,25,20,won,29 Jul 2015,21,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Samoa,Toronto
+Samoa,Italy tour,211175,0,20,9,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,211159,15,15,won,14 Jun 2014,0,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,Italy,Apia
+England,Samoa tour,203141,13,15,6,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,201113,1,28,lost,22 Nov 2014,9,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Samoa,Twickenham
+Fiji,Pacific Nations Cup,257969,9,15,17,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,256449,14,39,won,3 Aug 2015,29,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Samoa,Vancouver
+Canada,Samoa tour,240803,3,15,9,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,201113,25,13,won,14 Nov 2014,23,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Samoa,Vannes
+Fiji,Pacific Nations Cup,256473,9,23,24,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,256449,14,27,won,29 Jul 2015,22,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Japan,Toronto
+Italy,Samoa tour,227305,3,15,10,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,201113,20,24,lost,8 Nov 2014,13,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,Samoa,Ascoli Piceno
+Canada,Canada tour,268423,8,14,30,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,264139,25,18,won,6 Sep 2015,47,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Fiji,The Stoop
+Fiji,New Zealand Maori tour,263905,10,142,26,,263903,14,26,lost,11 Jul 2015,27,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,New Zealand Maori,Suva
+Samoa,Pacific Nations Cup,214955,12,16,5,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,214931,15,18,draw,7 Jun 2014,18,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,Tonga,Apia
+Fiji,Pacific Nations Cup,257953,8,16,10,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,256449,14,30,won,18 Jul 2015,22,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Tonga,Suva
+Fiji,2015 Rugby World Cup Qualifier,220539,6,54,29,,161354,14,108,won,28 Jun 2014,6,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Cook Islands,Suva
+Fiji,Pacific Nations Cup,257959,10,15,17,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,256449,14,30,draw,24 Jul 2015,30,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Samoa,Sacramento
+Japan,Samoa tour,220521,20,15,7,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,201113,23,33,lost,30 May 2014,14,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Samoa,Tokyo
+Fiji,Pacific Nations Cup,214959,3,16,24,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,214931,14,45,won,14 Jun 2014,17,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Tonga,Lautoka
+Fiji,Pacific Nations Cup,214965,15,15,5,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,214931,14,13,lost,21 Jun 2014,18,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Samoa,Suva
+France,Rugby World Cup,236305,29,8,13,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,164205,9,13,lost,17 Oct 2015,62,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,New Zealand,Millennium Stadium
+Fiji,Italy tour,211173,7,20,5,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,211159,14,25,won,7 Jun 2014,14,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,Italy,Suva
+France,Rugby World Cup,181972,3,20,15,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,164205,9,32,won,19 Sep 2015,10,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Italy,Twickenham
+Wales,Fiji tour,218863,17,14,6,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,218859,4,17,lost,15 Nov 2014,13,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Fiji,Millennium Stadium
+England,Six Nations,180693,27,9,15,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,180659,1,55,lost,21 Mar 2015,35,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,France,Twickenham
+Fiji,Fiji tour,240809,0,11,15,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,218859,14,20,won,21 Nov 2014,14,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,United States of America,Vannes
+France,Rugby World Cup,181979,6,12,17,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,164205,9,38,won,23 Sep 2015,11,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Romania,London
+England,France tour,248675,12,9,9,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,248671,1,19,lost,15 Aug 2015,14,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,France,Twickenham
+France,England tour,248939,6,1,15,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,248935,9,25,won,22 Aug 2015,20,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,England,Stade de France
+Canada,Rugby World Cup,181990,12,9,24,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,164205,25,18,won,1 Oct 2015,41,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,France,Milton Keynes
+New Zealand,Rugby World Cup,236313,7,5,12,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,164205,8,20,lost,24 Oct 2015,18,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,South Africa,Twickenham
+France,Argentina tour,227311,15,10,3,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,209457,9,13,lost,22 Nov 2014,18,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Argentina,Stade de France
+South Africa,Rugby World Cup,236307,13,4,12,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,164205,5,23,won,17 Oct 2015,19,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,Wales,Twickenham
+Wales,Six Nations,180670,20,9,6,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,180658,4,27,lost,21 Feb 2014,6,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,France,Millennium Stadium
+South Africa,Rugby World Cup,181999,0,11,14,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,164205,5,64,won,7 Oct 2015,0,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,United States of America,London
+Italy,Six Nations,180690,0,9,9,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,180659,20,0,won,15 Mar 2015,29,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,France,Rome
+Japan,Rugby World Cup,181970,10,5,12,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,164205,23,34,lost,19 Sep 2015,32,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,South Africa,Brighton
+South Africa,Rugby Championship,244315,27,10,13,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,244293,5,25,lost,8 Aug 2015,37,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,Argentina,Durban
+South Africa,Rugby Championship,244309,10,8,10,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,244293,5,20,lost,25 Jul 2015,27,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,New Zealand,Johannesburg
+France,Six Nations,180669,3,20,9,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,180658,9,30,won,9 Feb 2014,10,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Italy,Stade de France
+France,Six Nations,180686,6,4,3,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,180659,9,13,lost,28 Feb 2015,20,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Wales,Stade de France
+France,Six Nations,180665,8,1,16,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,180658,9,26,won,1 Feb 2014,24,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,England,Stade de France
+Samoa,Rugby World Cup,181983,6,5,17,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,164205,15,6,won,26 Sep 2015,46,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,South Africa,Birmingham
+South Africa,Rugby Championship,207975,13,8,21,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,207941,5,27,won,4 Oct 2014,25,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,New Zealand,Johannesburg
+England,South Africa tour,203139,6,5,13,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,201111,1,28,won,15 Nov 2014,31,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,South Africa,Twickenham
+France,Fiji tour,227301,0,14,14,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,218859,9,40,won,8 Nov 2014,15,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Fiji,Marseille
+Argentina,South Africa tour,244319,9,5,20,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,244297,10,12,won,15 Aug 2015,26,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,South Africa,Buenos Aires
+South Africa,Rugby Championship,207957,3,10,10,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,207941,5,13,won,16 Aug 2014,6,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,Argentina,Pretoria
+Wales,South Africa tour,217023,3,5,3,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,201111,4,12,lost,29 Nov 2014,6,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,South Africa,Millennium Stadium
+Argentina,Rugby World Cup,236315,9,6,19,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,164205,10,15,won,25 Oct 2015,29,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Australia,Twickenham
+Italy,South Africa tour,217021,6,5,8,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,201111,20,6,won,22 Nov 2014,22,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,South Africa,Padova
+England,Rugby World Cup,181992,3,6,17,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,164205,1,13,won,3 Oct 2015,33,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Australia,Twickenham
+New Zealand,Rugby Championship,207969,6,5,7,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,207941,8,14,lost,13 Sep 2014,10,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,South Africa,Wellington
+New Zealand,Australia tour,244317,13,6,6,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,244295,8,41,lost,15 Aug 2015,13,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,Australia,Auckland
+South Africa,Wales tour,210415,17,4,14,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,210107,5,31,won,21 Jun 2014,30,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,Wales,Nelspruit
+Australia,Rugby World Cup,182002,6,4,9,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,164205,6,15,won,10 Oct 2015,6,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,Wales,Twickenham
+South Africa,Wales tour,210109,9,4,28,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,210107,5,38,won,14 Jun 2014,16,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,Wales,Durban
+Australia,Rugby World Cup,181985,3,29,31,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,164205,6,65,won,27 Sep 2015,3,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,Uruguay,Birmingham
+Argentina,Rugby Championship,207961,13,5,16,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,207941,10,31,won,23 Aug 2014,33,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,South Africa,Salta
+Australia,Rugby Championship,244313,6,8,3,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,244293,6,27,won,8 Aug 2015,19,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,New Zealand,Sydney
+United States of America,Australia tour,264181,10,6,14,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,244295,11,10,won,5 Sep 2015,47,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,Australia,Chicago
+England,Australia tour,203143,13,6,3,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,201115,1,26,lost,29 Nov 2014,17,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Australia,Twickenham
+Argentina,Rugby Championship,244311,6,6,8,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,244293,10,9,won,25 Jul 2015,34,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Australia,Mendoza
+Australia,Rugby World Cup,181977,3,14,18,http://assets.espn.go.com/i/teamlogos/countries/500/fij.png,164205,6,28,won,23 Sep 2015,13,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,Fiji,Millennium Stadium
+Argentina,Rugby Championship,207977,8,6,14,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,207941,10,21,lost,4 Oct 2014,17,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Australia,Mendoza
+Australia,New Zealand tour,231351,12,8,15,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,201109,6,28,lost,18 Oct 2014,29,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,New Zealand,Brisbane
+France,Rugby World Cup,182007,6,3,9,http://img.scrum.com/scrum/IRFU.png,164205,9,9,won,11 Oct 2015,24,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Ireland,Millennium Stadium
+Wales,Australia tour,218861,21,6,21,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,201115,4,28,won,8 Nov 2014,33,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Australia,Millennium Stadium
+France,Australia tour,227307,17,6,16,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,201115,9,29,lost,15 Nov 2014,26,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Australia,Stade de France
+South Africa,Rugby Championship,207971,5,6,10,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,207941,5,28,lost,27 Sep 2014,10,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,Australia,Cape Town
+New Zealand,Rugby Championship,207959,23,6,6,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,207941,8,51,lost,23 Aug 2014,20,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,Australia,Auckland
+Australia,Rugby Championship,207963,14,5,11,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,207941,6,24,won,6 Sep 2014,23,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,South Africa,Perth
+Australia,Rugby Championship,244307,13,5,7,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,244293,6,24,won,18 Jul 2015,20,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,South Africa,Brisbane
+England,Ireland tour,248677,12,3,3,http://img.scrum.com/scrum/IRFU.png,248673,1,21,lost,5 Sep 2015,13,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Ireland,Twickenham
+Australia,France tour,193511,-,9,-,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,193507,6,6,won,14 Jun 2014,0,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,France,Melbourne
+Australia,Rugby Championship,207955,9,8,3,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,207941,6,12,draw,16 Aug 2014,12,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,New Zealand,Sydney
+Australia,Rugby Championship,207967,7,10,14,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,207941,6,32,won,13 Sep 2014,25,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,Argentina,Gold Coast
+Canada,Rugby World Cup,181973,0,3,29,http://img.scrum.com/scrum/IRFU.png,164205,25,7,won,19 Sep 2015,50,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Ireland,Millennium Stadium
+Australia,France tour,193513,6,9,20,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,193507,6,39,won,21 Jun 2014,13,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,France,Sydney
+Ireland,Rugby World Cup,181987,3,12,18,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,164205,3,44,won,27 Sep 2015,10,http://img.scrum.com/scrum/IRFU.png,Romania,Wembley
+Ireland,Rugby World Cup,181996,6,20,10,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,164205,3,16,won,4 Oct 2015,9,http://img.scrum.com/scrum/IRFU.png,Italy,London
+Wales,Ireland tour,249675,7,3,25,http://img.scrum.com/scrum/IRFU.png,248673,4,21,won,8 Aug 2015,35,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Ireland,Millennium Stadium
+Ireland,Wales tour,249679,10,4,10,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,249661,3,10,lost,29 Aug 2015,16,http://img.scrum.com/scrum/IRFU.png,Wales,Lansdowne Road
+Ireland,Six Nations,180683,6,9,12,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,180659,3,18,won,14 Feb 2015,11,http://img.scrum.com/scrum/IRFU.png,France,Lansdowne Road
+Ireland,Six Nations,180687,3,1,9,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,180659,3,19,won,1 Mar 2015,9,http://img.scrum.com/scrum/IRFU.png,England,Lansdowne Road
+Argentina,Ireland tour,211263,10,3,9,http://img.scrum.com/scrum/IRFU.png,211259,10,17,won,14 Jun 2014,23,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Ireland,Tucuman
+Ireland,South Africa tour,208365,3,5,6,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,201111,3,29,won,8 Nov 2014,15,http://img.scrum.com/scrum/IRFU.png,South Africa,Lansdowne Road
+Ireland,Australia tour,208369,20,6,20,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,201115,3,26,won,22 Nov 2014,23,http://img.scrum.com/scrum/IRFU.png,Australia,Lansdowne Road
+Ireland,Georgia tour,208367,0,81,9,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,219131,3,49,won,16 Nov 2014,7,http://img.scrum.com/scrum/IRFU.png,Georgia,Lansdowne Road
+Argentina,Ireland tour,211261,10,3,11,http://img.scrum.com/scrum/IRFU.png,211259,10,17,won,7 Jun 2014,29,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Ireland,Resistencia
+France,Six Nations,180678,13,3,12,http://img.scrum.com/scrum/IRFU.png,180658,9,20,won,15 Mar 2014,22,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Ireland,Stade de France
+Ireland,Six Nations,180673,7,20,17,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,180658,3,46,won,8 Mar 2014,7,http://img.scrum.com/scrum/IRFU.png,Italy,Lansdowne Road
+Ireland,Six Nations,180667,0,4,13,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,180658,3,26,won,8 Feb 2014,3,http://img.scrum.com/scrum/IRFU.png,Wales,Lansdowne Road
+Scotland,Rugby World Cup,181994,20,5,3,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,164205,2,16,lost,3 Oct 2015,34,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,South Africa,Newcastle
+England,Six Nations,180672,3,3,0,http://img.scrum.com/scrum/IRFU.png,180658,1,13,lost,22 Feb 2014,10,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Ireland,Twickenham
+France,Scotland tour,248941,6,2,9,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,248937,9,19,lost,5 Sep 2015,16,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Scotland,Stade de France
+Scotland,Rugby World Cup,181986,13,11,6,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,164205,2,39,won,27 Sep 2015,16,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,United States of America,Leeds
+Samoa,Rugby World Cup,182004,26,2,23,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,164205,15,33,won,10 Oct 2015,36,http://assets.espn.go.com/i/teamlogos/countries/500/sam.png,Scotland,Newcastle
+Scotland,Italy tour,263333,7,20,23,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,252321,2,48,won,29 Aug 2015,7,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,Italy,Murrayfield
+Japan,Rugby World Cup,181978,7,2,12,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,164205,23,10,won,23 Sep 2015,45,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Scotland,Gloucester
+Italy,Scotland tour,263325,9,2,9,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,248937,20,12,won,22 Aug 2015,16,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,Scotland,Torino
+Ireland,Scotland tour,249677,7,2,7,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,248937,3,28,lost,15 Aug 2015,22,http://img.scrum.com/scrum/IRFU.png,Scotland,Lansdowne Road
+France,Six Nations,180681,9,2,8,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,180659,9,15,lost,7 Feb 2015,8,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,Scotland,Stade de France
+Wales,Six Nations,180677,27,2,3,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,180658,4,51,lost,15 Mar 2014,3,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Scotland,Millennium Stadium
+United States of America,Scotland tour,204107,3,2,17,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,204095,11,6,won,7 Jun 2014,24,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,Scotland,Houston
+Germany,Six Nations B,239997,8,12,6,http://assets.espn.go.com/i/teamlogos/countries/500/rom.png,239925,7,12,lost,14 Mar 2015,17,,Romania,Heidelburg
+Argentina,Scotland tour,209463,8,2,7,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,204095,10,19,won,20 Jun 2014,21,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,Scotland,Cordoba
+Scotland,Six Nations,180674,9,9,14,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,180658,2,17,lost,8 Mar 2014,19,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,France,Murrayfield
+Scotland,Six Nations,180668,13,1,0,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,180658,2,0,lost,8 Feb 2014,20,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,England,Murrayfield
+Ireland,Six Nations,180666,11,2,3,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,180658,3,28,lost,2 Feb 2014,6,http://img.scrum.com/scrum/IRFU.png,Scotland,Lansdowne Road
+Portugal,Six Nations B,239989,5,7,0,,239925,27,11,lost,28 Feb 2015,3,,Germany,Lisbon
+Italy,Six Nations,180671,13,2,3,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,180658,20,20,won,22 Feb 2014,21,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,Scotland,Rome
+Canada,Scotland tour,209461,8,2,13,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,204095,25,17,won,14 Jun 2014,19,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Scotland,Toronto
+South Africa,Scotland tour,209465,19,2,6,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,204095,5,55,lost,28 Jun 2014,6,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,Scotland,Port Elizabeth
+Germany,Six Nations B,239981,12,57,15,,239925,7,22,lost,14 Feb 2015,46,,Russia,Pforzheim
+Scotland,New Zealand tour,209469,14,8,10,http://assets.espn.go.com/i/teamlogos/countries/500/nzl.png,201109,2,16,lost,15 Nov 2014,24,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,New Zealand,Murrayfield
+Scotland,Tonga tour,209471,12,16,14,http://assets.espn.go.com/i/teamlogos/countries/500/tga.png,209459,2,37,won,22 Nov 2014,12,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,Tonga,Kilmarnock
+Scotland,Six Nations,180684,16,4,10,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,180659,2,23,lost,15 Feb 2015,26,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,Wales,Murrayfield
+Germany,2015 Rugby World Cup Qualifier,226837,10,57,3,,161354,7,20,lost,24 May 2014,31,,Russia,Hamburg
+Scotland,Argentina tour,209467,10,10,24,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,209457,2,41,won,8 Nov 2014,31,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,Argentina,Murrayfield
+Germany,Six Nations B,239975,31,81,8,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,239925,7,8,lost,7 Feb 2015,64,,Georgia,Heusenstamm
+Scotland,Six Nations,180685,15,20,16,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,180659,2,19,lost,28 Feb 2015,22,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,Italy,Murrayfield
+Sweden,FIRA Championship D1,190303,-,7,-,,168469,31,20,won,26 Apr 2014,45,,Germany,Stockholm
+Italy,Six Nations,180680,3,3,9,http://img.scrum.com/scrum/IRFU.png,180659,20,3,won,7 Feb 2015,26,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,Ireland,Rome
+Wales,Six Nations,180688,15,3,9,http://img.scrum.com/scrum/IRFU.png,180659,4,23,lost,14 Mar 2015,16,http://assets.espn.go.com/i/teamlogos/countries/500/wal.png,Ireland,Millennium Stadium
+England,Six Nations,180682,5,20,15,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,180659,1,47,won,14 Feb 2015,17,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Italy,Twickenham
+England,Six Nations,180689,10,2,13,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,180659,1,25,lost,14 Mar 2015,13,http://assets.espn.go.com/i/teamlogos/countries/500/eng.png,Scotland,Twickenham
+Australia,France tour,193509,9,9,29,http://assets.espn.go.com/i/teamlogos/countries/500/fra.png,193507,6,50,won,7 Jun 2014,23,http://assets.espn.go.com/i/teamlogos/countries/500/aus.png,France,Brisbane
+Spain,Six Nations B,240005,8,7,3,,239925,18,48,lost,21 Mar 2015,16,,Germany,Madrid
+Germany,FIRA Championship D1,190277,12,91,26,,168469,7,76,won,5 Apr 2014,12,,Czech Republic,Heidelburg
+Namibia,Germany tour,244299,36,7,6,,244289,82,58,lost,29 Oct 2014,20,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,Germany,Windhoek
+Scotland,Six Nations,180692,20,3,10,http://img.scrum.com/scrum/IRFU.png,180659,2,10,lost,21 Mar 2015,40,http://assets.espn.go.com/i/teamlogos/countries/500/sco.png,Ireland,Murrayfield
+Netherlands,2015 Rugby World Cup Qualifier,224997,7,7,17,,161354,22,7,won,10 May 2014,17,,Germany,Amsterdam
+Namibia,Nations Cup,249671,3,18,17,,249659,82,3,won,21 Jun 2015,20,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,Spain,Bucharest
+Spain,Six Nations B,239985,13,81,13,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,239925,18,13,lost,28 Feb 2015,26,,Georgia,Madrid
+Kenya,Spain tour,264171,17,18,6,,264137,35,36,lost,18 Jul 2015,27,,Spain,Nairobi
+Ukraine,FIRA Championship D1,273005,10,21,3,,239921,84,17,lost,10 Oct 2015,16,,Belgium,Irpin
+Portugal,Six Nations B,239995,8,18,8,,239925,27,8,won,14 Mar 2015,19,,Spain,Coimbra
+Japan,Asian 5 Nations - Top 5,256461,0,26,19,,256447,23,41,won,2 May 2015,0,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Hong Kong,Tokyo
+Netherlands,FIRA Championship D1,240045,7,31,5,,239921,22,24,won,30 May 2015,14,,Sweden,Amsterdam
+Sweden,FIRA Championship D1,272999,13,21,22,,239921,31,20,won,26 Sep 2015,48,,Belgium,Enkoping
+Japan,Uruguay tour,256479,0,29,21,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,256453,23,40,won,29 Aug 2015,0,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Uruguay,Tokyo
+Japan,Asian 5 Nations - Top 5,256463,7,49,31,,256447,23,66,won,9 May 2015,10,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Korea,Fukuoka
+Canada,Pacific Nations Cup,256469,3,23,11,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,256449,25,6,won,18 Jul 2015,20,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Japan,San Jose
+Japan,Uruguay tour,256477,8,29,17,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,256453,23,30,won,22 Aug 2015,8,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Uruguay,Fukuoka
+Philippines,2015 Rugby World Cup Qualifier,214937,10,23,45,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,161354,136,10,won,3 May 2014,99,,Japan,Silangan
+Korea,Asian 5 Nations - Top 5,256459,20,23,22,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,256447,49,30,won,18 Apr 2015,56,,Japan,Incheon
+Japan,2015 Rugby World Cup Qualifier,214951,3,26,27,,161354,23,49,won,25 May 2014,8,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Hong Kong,Tokyo
+Korea,2015 Rugby World Cup Qualifier,214945,0,23,34,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,161354,49,5,won,17 May 2014,62,,Japan,Incheon
+Canada,Rugby World Cup,181984,10,20,13,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,164205,25,18,won,26 Sep 2015,23,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Italy,Leeds
+Georgia,Georgia tour,256481,7,23,6,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,256455,81,10,won,5 Sep 2015,13,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Japan,Gloucester
+Georgia,Japan tour,227313,17,23,10,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,227299,81,35,lost,23 Nov 2014,24,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Japan,Tbilisi
+Canada,Pacific Nations Cup,214953,25,23,9,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,214931,25,25,won,7 Jun 2014,34,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Japan,Vancouver
+Ukraine,FIRA Championship D1,240043,0,22,3,,239921,84,18,lost,23 May 2015,10,,Netherlands,Odessa
+Belgium,FIRA Championship D1,240007,10,31,45,,239921,21,71,won,28 Mar 2015,10,,Sweden,Brussels
+Japan,Italy tour,211177,13,20,13,http://assets.espn.go.com/i/teamlogos/countries/500/ita.png,211159,23,26,won,21 Jun 2014,23,http://assets.espn.go.com/i/teamlogos/countries/500/jpn.png,Italy,Tokyo
+Belgium,FIRA Championship D1,239999,0,94,14,,239921,21,17,won,14 Mar 2015,14,,Moldova,Brussels
+Malta,FIRA Championship D2,190279,5,22,21,,168470,108,10,won,5 Apr 2014,33,,Netherlands,Paola
+Georgia,2015 Rugby World Cup Qualifier,190247,25,21,0,,161354,81,35,lost,1 Feb 2014,0,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Belgium,Tbilisi
+Netherlands,FIRA Championship D1,239991,0,94,13,,239921,22,18,won,28 Feb 2015,10,,Moldova,Amsterdam
+Netherlands,FIRA Championship D1,239983,18,21,18,,239921,22,21,won,21 Feb 2015,23,,Belgium,Amsterdam
+Belgium,2015 Rugby World Cup Qualifier,190259,9,27,6,,161354,21,6,lost,22 Feb 2014,19,,Portugal,Brussels
+Spain,Six Nations B,239973,13,57,24,,239925,18,43,won,7 Feb 2015,20,,Russia,Madrid
+Belgium,2015 Rugby World Cup Qualifier,190271,10,57,10,,161354,21,20,lost,15 Mar 2014,34,,Russia,Brussels
+Netherlands,FIRA Championship D2,190283,3,83,12,,168470,22,45,won,12 Apr 2014,13,,Croatia,Amsterdam
+Belgium,FIRA Championship D1,239965,7,84,6,,239921,21,25,won,15 Nov 2014,10,,Ukraine,Namur
+Emerging Italy,Tbilisi Cup,220933,22,18,0,,220925,204,37,lost,18 Jun 2014,0,,Spain,Tbilisi
+Portugal,2015 Rugby World Cup Qualifier,190269,18,18,6,,161354,27,24,won,15 Mar 2014,28,,Spain,Lisbon
+Georgia,Tbilisi Cup,220927,20,18,7,,220925,81,23,lost,14 Jun 2014,13,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Spain,Tbilisi
+Argentina Jaguares,Tbilisi Cup,220937,34,18,0,,220925,214,41,lost,22 Jun 2014,7,,Spain,Tbilisi
+Spain,2015 Rugby World Cup Qualifier,190245,23,57,11,,161354,18,25,lost,1 Feb 2014,28,,Russia,Madrid
+Korea,Asian 5 Nations - Top 5,257187,19,26,12,,256447,49,37,won,16 May 2015,38,,Hong Kong,Incheon
+Spain,2015 Rugby World Cup Qualifier,190261,9,81,14,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,161354,18,17,lost,8 Mar 2014,24,,Georgia,Madrid
+Canada,Georgia tour,263335,10,81,13,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,256455,25,16,won,2 Sep 2015,15,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Georgia,Esher
+Uruguay,2015 Rugby World Cup Qualifier,229325,6,26,3,,161354,29,28,lost,2 Aug 2014,3,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Hong Kong,Montevideo
+Hong Kong,Asian 5 Nations - Top 5,257185,25,49,7,,256447,26,26,lost,25 Apr 2015,33,,Korea,Hong Kong
+Hong Kong,2015 Rugby World Cup Qualifier,214943,6,49,20,,161354,26,39,won,10 May 2014,6,,Korea,Hong Kong
+Hong Kong,Russia tour,244301,23,57,3,,244291,26,10,lost,8 Nov 2014,31,,Russia,Hong Kong
+Canada,Namibia tour,240799,6,82,9,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,240793,25,17,won,7 Nov 2014,13,http://assets.espn.go.com/i/teamlogos/countries/500/can.png,Namibia,Colwyn Bay
+Russia,Six Nations B,240003,13,27,3,,239925,57,21,lost,21 Mar 2015,8,,Portugal,Sotchi
+Hong Kong,Russia tour,244303,29,57,10,,244291,26,27,lost,15 Nov 2014,39,,Russia,Hong Kong
+Kenya,Portugal tour,264153,17,27,10,,264131,35,41,lost,30 May 2015,15,,Portugal,Nairobi
+Georgia,Six Nations B,239977,14,27,9,,239925,81,20,lost,14 Feb 2015,15,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Portugal,Tbilisi
+Chile,South American Championship,259393,8,29,23,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,259375,28,30,won,9 May 2015,15,,Uruguay,Santiago
+Hong Kong,2015 Rugby World Cup Qualifier,214933,0,136,51,,161354,26,108,won,26 Apr 2014,0,,Philippines,Hong Kong
+Uruguay,Argentina XV tour,264173,12,10,17,http://assets.espn.go.com/i/teamlogos/countries/500/arg.png,270333,29,30,won,1 Aug 2015,26,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Argentina,Montevideo
+Emerging Italy,Tbilisi Cup,259409,17,29,6,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,259383,204,23,lost,21 Jun 2015,13,,Uruguay,Tbilisi
+Uruguay,Fiji Warriors tour,259395,15,264769,3,,264817,29,22,lost,23 May 2015,30,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Fiji Warriors,Montevideo
+Uruguay,Fiji Warriors tour,259397,34,264769,10,,264817,29,22,lost,31 May 2015,42,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Fiji Warriors,Montevideo
+Emerging Ireland,Tbilisi Cup,259405,19,29,0,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,259383,182835,33,lost,17 Jun 2015,7,,Uruguay,Tbilisi
+Uruguay,South American Championship,259389,9,33,18,,259375,29,48,won,18 Apr 2015,9,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Brazil,Montevideo
+Uruguay,United States of America XV tour,259391,3,11,0,http://assets.espn.go.com/i/teamlogos/countries/500/usa.png,259377,29,3,lost,23 Apr 2015,13,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,United States of America,Montevideo
+Emerging Ireland,Nations Cup,220527,22,29,3,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,220515,182835,51,lost,18 Jun 2014,3,,Uruguay,Bucharest
+Uruguay,2015 Rugby World Cup Qualifier,231349,17,57,12,,161354,29,36,won,11 Oct 2014,27,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Russia,Montevideo
+Russia,2015 Rugby World Cup Qualifier,231347,16,29,12,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,161354,57,22,lost,27 Sep 2014,21,,Uruguay,Krasnoyarsk
+Georgia,Tbilisi Cup,259403,13,29,3,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,259383,81,19,lost,13 Jun 2015,10,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Uruguay,Tbilisi
+Uruguay,South American Championship,259387,0,53,49,,259375,29,77,won,11 Apr 2015,3,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Paraguay,Montevideo
+Russia,2015 Rugby World Cup Qualifier,190263,17,27,13,,161354,57,34,lost,8 Mar 2014,18,,Portugal,Sotchi
+Russia,Nations Cup,220533,6,29,0,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,220515,57,6,won,22 Jun 2014,13,,Uruguay,Bucharest
+Brazil,South American Championship,222805,6,29,19,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,222789,33,9,won,3 May 2014,34,,Uruguay,Bento Goncalves
+Spain,2015 Rugby World Cup Qualifier,190253,3,21,5,,161354,18,11,won,8 Feb 2014,6,,Belgium,Madrid
+Portugal,2015 Rugby World Cup Qualifier,190249,17,81,3,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,161354,27,9,lost,8 Feb 2014,34,,Georgia,Lisbon
+Paraguay,South American Championship,261647,22,28,21,,259375,53,25,won,3 May 2015,35,,Chile,Asuncion
+Uruguay,South American Championship,222809,17,28,0,,222789,29,55,lost,10 May 2014,13,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,Chile,Montevideo
+Chile,South American Championship,222807,11,53,5,,222789,28,22,won,3 May 2014,18,,Paraguay,Concepcion
+Paraguay,South American Championship,222801,10,29,15,http://assets.espn.go.com/i/teamlogos/countries/500/uru.png,222789,53,10,won,26 Apr 2014,34,,Uruguay,Asuncion
+Denmark,FIRA Championship D2,273007,17,85,10,,239923,30,25,lost,10 Oct 2015,31,,Austria,Odense
+Portugal,Namibia tour,240811,13,82,12,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,240793,27,29,won,22 Nov 2014,20,,Namibia,Lisbon
+Moldova,FIRA Championship D1,239967,21,31,3,,239921,94,57,lost,22 Nov 2014,8,,Sweden,Chisinau
+Sweden,FIRA Championship D1,273025,20,94,0,,239921,31,7,lost,7 Nov 2015,25,,Moldova,Malmo
+Chile,South American Championship,261645,3,33,15,,259375,28,32,won,25 Apr 2015,3,,Brazil,Santiago
+Austria,FIRA Championship D2,239929,9,30,11,,239923,85,29,lost,11 Oct 2014,27,,Denmark,Vienna
+Brazil,South American Championship,222803,10,28,6,,222789,33,24,lost,26 Apr 2014,16,,Chile,Sao Paulo
+Denmark,FIRA Championship D2,239945,10,86,7,,239923,30,10,lost,25 Oct 2014,16,,Slovenia,Odense
+Brazil,South American Championship,261649,7,53,8,,259375,33,11,lost,9 May 2015,20,,Paraguay,Bento Goncalves
+Paraguay,South American Championship,222811,16,33,3,,222789,53,31,lost,10 May 2014,24,,Brazil,Asuncion
+Sweden,FIRA Championship D1,239933,31,84,0,,239921,31,0,lost,18 Oct 2014,45,,Ukraine,Enkoping
+Namibia,African CAR Championship,259417,25,35,6,,259381,82,46,lost,8 Aug 2015,13,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,Kenya,Windhoek
+Denmark,FIRA Championship D2,190313,3,87,6,,168470,30,9,lost,3 May 2014,16,,Latvia,Odense
+Serbia and Montenegro,FIRA Championship D2,190289,0,30,11,,168470,47,19,won,12 Apr 2014,33,,Denmark,Belgrade
+Kenya,Elgon Cup,233755,0,39,12,,233751,35,34,won,19 Jul 2014,0,,Uganda,Nairobi
+Uganda,Elgon Cup,233753,-,35,-,,233751,39,21,lost,12 Jul 2014,14,,Kenya,Kampala
+Thailand,Asian 5 Nations - Divisio,262851,-,133753,-,,262827,38,22,lost,10 May 2015,53,,United Arab Emirates,Kuala Lumpur
+Kenya,African CAR Championship,259413,12,64,14,,259381,35,46,won,28 Jun 2015,15,,Tunisia,Nairobi
+Zimbabwe,African CAR Championship,259401,17,35,17,,259381,42,28,lost,13 Jun 2015,20,,Kenya,Harare
+Uganda,African CAR Championship,266069,3,132,14,,259381,39,35,won,8 Jul 2015,11,,Mauritius,Kampala
+Uganda,African CAR Championship,266067,-,63,-,,259381,39,40,won,5 Jul 2015,11,,Ivory Coast,Kampala
+Uganda,African CAR Championship,266077,-,100,-,,259381,39,59,won,11 Jul 2015,10,,Botswana,Kampala
+Ivory Coast,African CAR Championship,229299,-,39,-,,220517,63,22,lost,10 Jun 2014,19,,Uganda,Tunis
+Uganda,Elgon Cup,268001,18,118084,6,,264133,39,30,won,20 Jun 2015,0,,Kenya A,Kampala
+Senegal,African CAR Championship,229303,21,39,10,,220517,67,32,lost,14 Jun 2014,31,,Uganda,Tunis
+Chinese Taipei,Asian 5 Nations - Divisio,262855,-,38,-,,262827,48,29,lost,13 May 2015,24,,Thailand,Kuala Lumpur
+Kenya A,Elgon Cup,264167,5,39,3,,264133,118084,0,lost,13 Jun 2015,17,,Uganda,Nairobi
+Malaysia,Crescent Cup,265721,-,113561,-,,265717,36,10,won,6 Jun 2015,0,,Lebanon,Melaka
+Malaysia,Asian 5 Nations - Divisio,262853,-,133753,-,,262827,36,20,won,13 May 2015,19,,United Arab Emirates,Kuala Lumpur
+Kenya,2015 Rugby World Cup Qualifier,220545,13,42,10,,161354,35,10,lost,6 Jul 2014,28,,Zimbabwe,Antananarive
+Iran,Asian 5 Nations - Divisio,222817,-,36,-,,222791,84914,22,won,20 May 2014,43,,Malaysia,Doha
+Malaysia,Crescent Cup,265729,6,84916,24,,265717,36,55,won,11 Jun 2015,9,,Uzbekistan,Melaka
+Malaysia,Asian 5 Nations - Divisio,262849,-,48,-,,262827,36,46,won,10 May 2015,13,,Chinese Taipei,Kuala Lumpur
+Kenya,2015 Rugby World Cup Qualifier,220535,12,82,7,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,161354,35,29,won,28 Jun 2014,22,,Namibia,Antananarive
+Denmark,FIRA Championship D2,240031,22,47,19,,239923,30,22,lost,25 Apr 2015,25,,Serbia and Montenegro,Odense
+Thailand,Malaysia tour,245929,0,36,10,,245925,38,12,won,28 Oct 2014,29,,Malaysia,Bangkok
+Thailand,Malaysia tour,245927,13,36,9,,245925,38,33,lost,25 Oct 2014,16,,Malaysia,Bangkok
+Malaysia,Crescent Cup,265735,-,142722,-,,265717,36,19,won,14 Jun 2015,11,,Algeria,Melaka
+Russia,2015 Rugby World Cup Qualifier,229323,13,42,7,,161354,57,23,lost,2 Aug 2014,15,,Zimbabwe,Krasnoyarsk
+Malaysia,Asian 5 Nations - Divisio,222823,-,138785,-,,222791,36,31,won,23 May 2014,22,,Qatar,Doha
+Madagascar,2015 Rugby World Cup Qualifier,220543,0,35,27,,161354,52,0,won,2 Jul 2014,34,,Kenya,Antananarive
+Zimbabwe,African CAR Championship,259415,3,64,13,,259381,42,19,won,4 Jul 2015,8,,Tunisia,Harare
+Bulgaria,FIRA Championship D2,273003,10,68,12,,239923,41,15,lost,3 Oct 2015,16,,Norway,Burgas
+Bulgaria,FIRA Championship D2,273019,3,74,12,,239923,41,34,won,24 Oct 2015,15,,Finland,Sofia
+Madagascar,2015 Rugby World Cup Qualifier,220537,15,42,22,,161354,52,22,won,28 Jun 2014,57,,Zimbabwe,Antananarive
+Namibia,African CAR Championship,259419,28,42,6,,259381,82,80,lost,15 Aug 2015,6,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,Zimbabwe,Windhoek
+Peru,Ecuador tour,234199,-,177673,-,,234191,40,45,won,11 Jul 2014,0,,Ecuador,Chiclayo
+Namibia,2015 Rugby World Cup Qualifier,220541,10,42,17,,161354,82,24,lost,2 Jul 2014,20,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,Zimbabwe,Antananarive
+Peru,Ecuador tour,234201,-,177673,-,,234191,40,36,won,13 Jul 2014,8,,Ecuador,Chiclayo
+Bulgaria,FIRA Championship D2,242933,12,171355,14,,239923,41,26,won,1 Nov 2014,19,,Turkey,Pernik
+Norway,FIRA Championship D2,242943,24,41,0,,239923,68,43,lost,23 May 2015,0,,Bulgaria,Bergen
+Peru,South American Championship,239321,20,104,15,,239319,40,28,lost,31 Aug 2014,33,,Venezuela,Antioquia
+Turkey,FIRA Championship D2,262839,13,41,26,,239923,171355,28,lost,25 Apr 2015,26,,Bulgaria,Antalya
+Ecuador,South American Championship,239329,-,40,-,,239319,177673,17,won,6 Sep 2014,24,,Peru,Antioquia
+Chinese Taipei,Asian 5 Nations - Divisio,262859,-,133753,-,,262827,48,12,won,16 May 2015,5,,United Arab Emirates,Kuala Lumpur
+Colombia,South American Championship,239327,32,40,6,,239319,97,56,lost,3 Sep 2014,6,,Peru,Antioquia
+Slovenia,FIRA Championship D2,190293,19,41,12,,168470,86,43,lost,12 Apr 2014,17,,Bulgaria,Ljubliana
+Bulgaria,FIRA Championship D2,190309,39,139,3,,168470,41,15,lost,26 Apr 2014,46,,Cyprus,Sofia
+Bosnia and Herzegovina,FIRA Championship D2,242913,35,41,7,,239923,88,59,lost,4 Oct 2014,12,,Bulgaria,Zenica
+Slovenia,FIRA Championship D2,239937,22,47,0,,239923,86,48,lost,18 Oct 2014,3,,Serbia and Montenegro,Ljubliana
+Serbia and Montenegro,FIRA Championship D2,273031,19,86,7,,239923,47,17,lost,7 Nov 2015,33,,Slovenia,Belgrade
+Madagascar,African CAR Championship,266079,21,132,14,,259381,52,33,won,11 Jul 2015,24,,Mauritius,Kampala
+Papua New Guinea,Oceania Cup,272995,-,50,-,,272983,45,58,won,30 Aug 2015,19,,Solomon Islands,Port Moresby
+Chinese Taipei,Asian 5 Nations - Divisio,222813,-,95,-,,222787,48,8,lost,10 May 2014,37,,Kazakhstan,Hong Kong
+American Samoa,Oceania Cup,272985,-,50,-,,272983,272969,30,lost,22 Aug 2015,15,,Solomon Islands,Port Moresby
+Serbia and Montenegro,FIRA Championship D2,240021,0,85,12,,239923,47,22,won,18 Apr 2015,3,,Austria,Belgrade
+Madagascar,2015 Rugby World Cup Qualifier,220547,63,82,0,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,161354,52,10,lost,6 Jul 2014,89,,Namibia,Antananarive
+Botswana,African CAR Championship,266063,13,52,12,,259381,100,18,won,5 Jul 2015,36,,Madagascar,Kampala
+Ivory Coast,African CAR Championship,266073,17,52,10,,259381,63,26,won,8 Jul 2015,30,,Madagascar,Kampala
+Philippines,2015 Rugby World Cup Qualifier,214949,15,49,22,,161354,136,22,won,24 May 2014,52,,Korea,Silangan
+American Samoa,Oceania Cup,272993,-,55,-,,272983,272969,8,won,30 Aug 2015,20,,Tahiti,Port Moresby
+Papua New Guinea,Oceania Cup,272991,-,272969,-,,272983,45,36,won,26 Aug 2015,22,,American Samoa,Port Moresby
+Andorra,FIRA Championship D2,190273,15,47,6,,168470,80,23,lost,29 Mar 2014,13,,Serbia and Montenegro,Andorra la Vella
+Malta,FIRA Championship D2,240025,10,56,18,,239923,108,20,won,25 Apr 2015,23,,Switzerland,Gozo
+Papua New Guinea,Oceania Cup,272987,-,55,-,,272983,45,32,won,22 Aug 2015,10,,Tahiti,Port Moresby
+Georgia,2015 Rugby World Cup Qualifier,190255,10,57,7,,161354,81,36,lost,22 Feb 2014,10,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Russia,Tbilisi
+Kazakhstan,Asian 5 Nations - Divisio,262845,-,51,-,,262825,95,32,lost,9 May 2015,12,,Singapore,Ciudad de Victoria
+Philippines,Asian 5 Nations - Divisio,262841,0,51,10,,262825,136,20,lost,6 May 2015,17,,Singapore,Ciudad de Victoria
+United Arab Emirates,Asian 5 Nations - Divisio,222799,10,51,19,,222787,133753,13,won,23 Apr 2014,30,,Singapore,Dubai
+Namibia,Russia tour,266287,16,57,5,,266283,82,45,lost,18 Jul 2015,5,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,Russia,Windhoek
+Switzerland,FIRA Championship D2,190285,9,108,9,,168470,56,14,lost,12 Apr 2014,29,,Malta,Winterthur
+Czech Republic,FIRA Championship D2,273013,0,56,10,,239923,91,14,won,24 Oct 2015,20,,Switzerland,Vyskov
+Switzerland,FIRA Championship D2,239947,10,91,14,,239923,56,14,lost,1 Nov 2014,27,,Czech Republic,Nyon
+Emerging Ireland,Nations Cup,220523,52,57,0,,220515,182835,66,lost,13 Jun 2014,0,,Russia,Bucharest
+Georgia,Six Nations B,239993,6,57,0,,239925,81,33,lost,14 Mar 2015,0,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Russia,Tbilisi
+Namibia,Russia tour,266285,13,57,12,,266283,82,39,lost,11 Jul 2015,19,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,Russia,Windhoek
+Israel,FIRA Championship D2,239939,6,56,15,,239923,72,18,won,25 Oct 2014,29,,Switzerland,Netanya
+Switzerland,FIRA Championship D2,240019,10,83,17,,239923,56,40,won,18 Apr 2015,20,,Croatia,Monthey
+Slovenia,FIRA Championship D2,240023,6,61,0,,239923,86,11,won,18 Apr 2015,14,,Luxembourg,Ljubliana
+Tunisia,African CAR Championship,259399,12,82,8,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,259381,64,14,lost,6 Jun 2015,22,,Namibia,Nabeul
+Lithuania,FIRA Championship D2,190305,17,56,13,,168470,90,24,lost,26 Apr 2014,18,,Switzerland,Siauliai
+Botswana,African CAR Championship,229317,-,62,-,,220517,100,66,lost,21 Jun 2014,14,,Zambia,Gaberone
+Luxembourg,FIRA Championship D2,239961,3,85,10,,239923,61,18,won,8 Nov 2014,13,,Austria,Luxembourg
+Luxembourg,FIRA Championship D2,190319,0,74,13,,168470,61,27,won,10 May 2014,7,,Finland,Luxembourg
+Zambia,African CAR Championship,267133,12,267121,5,,259381,62,19,won,27 Jun 2015,12,,Zimbabwe Under-23s,Lusaka
+Mauritius,African CAR Championship,229315,-,62,-,,220517,132,67,lost,18 Jun 2014,17,,Zambia,Gaberone
+Bahamas,NACRA Rugby,225415,-,60,-,,225385,92,17,lost,28 Jun 2014,10,,Jamaica,Nassau
+Jamaica,NACRA Rugby,225397,-,112,-,,225385,60,10,won,17 May 2014,6,,Turks and Caicos Islands,Kingston
+Greece,FIRA Championship D2,190311,3,61,12,,168470,133,8,won,26 Apr 2014,52,,Luxembourg,Thessaloniki
+Jamaica,NACRA Rugby,225407,-,78,-,,225385,60,8,lost,7 Jun 2014,34,,Mexico,Ewarton
+Ivory Coast,Senegal tour,259385,-,67,-,,259373,63,14,lost,14 Mar 2015,20,,Senegal,Toulouse
+Ivory Coast,African CAR Championship,266075,-,67,-,,259381,63,22,won,11 Jul 2015,19,,Senegal,Kampala
+Austria,FIRA Championship D2,273017,6,61,13,,239923,85,6,won,24 Oct 2015,34,,Luxembourg,Vienna
+Bahamas,NACRA Rugby,258703,-,59,-,,258685,92,21,lost,21 Mar 2015,15,,Bermuda,Nassau
+Bermuda,NACRA Rugby,258693,0,112,22,,258685,59,56,won,7 Mar 2015,3,,Turks and Caicos Islands,Hamilton
+USA South Panthers,NACRA Rugby,225387,19,59,6,,225385,173646,33,lost,10 May 2014,6,,Bermuda,Atlanta
+Niger,African CAR Championship,229309,-,62,-,,220517,128,20,won,15 Jun 2014,30,,Zambia,Gaberone
+Mauritius,African CAR Championship,266065,3,67,13,,259381,132,3,won,5 Jul 2015,42,,Senegal,Kampala
+Tunisia,African CAR Championship,229301,6,63,12,,220517,64,26,won,14 Jun 2014,6,,Ivory Coast,Tunis
+Mexico,Bermuda tour,223101,-,59,-,,223099,78,56,lost,26 Apr 2014,9,,Bermuda,Huixquilucan
+Bosnia and Herzegovina,FIRA Championship D2,242939,3,68,3,,239923,88,16,lost,9 May 2015,10,,Norway,Zenica
+Tunisia,African CAR Championship,229297,-,67,-,,220517,64,22,won,10 Jun 2014,14,,Senegal,Tunis
+Israel,FIRA Championship D2,240017,3,108,5,,239923,72,13,lost,18 Apr 2015,16,,Malta,Netanya
+Finland,FIRA Championship D2,242911,20,68,10,,239923,74,32,lost,4 Oct 2014,10,,Norway,Helsinki
+Norway,FIRA Championship D2,242929,5,74,14,,239923,68,20,won,18 Oct 2014,12,,Finland,Oslo
+Israel,FIRA Championship D2,273027,9,83,13,,239923,72,21,lost,7 Nov 2015,26,,Croatia,Netanya
+Guyana,NACRA Rugby,258691,5,73,17,,258685,69,48,won,7 Mar 2015,22,,Barbados,Georgetown
+Croatia,FIRA Championship D2,239959,21,72,14,,239923,83,31,lost,8 Nov 2014,20,,Israel,Split
+Czech Republic,FIRA Championship D2,240027,7,72,17,,239923,91,26,draw,25 Apr 2015,26,,Israel,Prague
+Botswana,African CAR Championship,266071,9,67,14,,259381,100,26,lost,8 Jul 2015,21,,Senegal,Kampala
+Barbados,NACRA Rugby,225391,-,69,-,,225385,73,19,won,17 May 2014,48,,Guyana,Bridgetown
+Trinidad and Tobago,NACRA Rugby,262837,6,78,23,,258685,70,33,won,25 Apr 2015,16,,Mexico,Port-of-Spain
+Trinidad and Tobago,NACRA Rugby,258707,0,69,12,,258685,70,22,won,11 Apr 2015,20,,Guyana,Port of Spain
+Guyana,NACRA Rugby,225405,-,70,-,,225385,69,15,lost,7 Jun 2014,8,,Trinidad and Tobago,Georgetown
+Zambia,African CAR Championship,267129,8,79,12,,259381,62,15,won,21 Jun 2015,8,,Nigeria,Lusaka
+Israel,FIRA Championship D2,190287,10,80,5,,168470,72,20,won,12 Apr 2014,16,,Andorra,Netanya
+Norway,FIRA Championship D2,190317,3,133,16,,168470,68,45,won,10 May 2014,23,,Greece,Tonsberg
+Bosnia and Herzegovina,FIRA Championship D2,190297,22,68,0,,168470,88,43,lost,19 Apr 2014,0,,Norway,Zenica
+Barbados,NACRA Rugby,258701,7,70,19,,258685,73,7,won,21 Mar 2015,44,,Trinidad and Tobago,Bridgetown
+USA South Panthers,NACRA Rugby,230227,24,69,8,,225385,173646,27,won,28 Jun 2014,30,,Guyana,Atlanta
+Finland,FIRA Championship D2,190323,20,88,7,,168470,74,29,won,31 May 2014,25,,Bosnia and Herzegovina,Turku
+Curacao,NACRA Rugby,234203,-,73,-,,225385,173647,0,won,20 Sep 2014,29,,Barbados,Willemstad
+Cayman Islands,NACRA Rugby,228583,-,173646,-,,225385,77,30,lost,14 Jun 2014,34,,USA South Panthers,Grand Caymans
+Bosnia and Herzegovina,FIRA Championship D2,242935,14,74,0,,239923,88,29,lost,25 Apr 2015,7,,Finland,Zenica
+Cayman Islands,NACRA Rugby,258709,-,78,-,,258685,77,3,lost,11 Apr 2015,24,,Mexico,Grand Caymans
+Trinidad and Tobago,NACRA Rugby,225399,-,73,-,,225385,70,34,won,24 May 2014,5,,Barbados,Port-of-Spain
+Mexico,NACRA Rugby,258689,13,173646,19,,258685,78,50,won,7 Mar 2015,25,,USA South Panthers,Mexico City
+USA South Panthers,NACRA Rugby,258697,12,77,8,,258685,173646,24,won,21 Mar 2015,25,,Cayman Islands,Atlanta
+Nigeria,African CAR Championship,267131,13,267121,5,,259381,79,34,won,24 Jun 2015,23,,Zimbabwe Under-23s,Lusaka
+Bahamas,NACRA Rugby,225393,-,78,-,,225385,92,18,won,17 May 2014,33,,Mexico,Nassau
+Andorra,FIRA Championship D2,239935,20,90,8,,239923,80,15,lost,18 Oct 2014,34,,Lithuania,Andorra la Vella
+Lithuania,FIRA Championship D2,273021,32,80,17,,239923,90,49,lost,31 Oct 2015,17,,Andorra,Siauliai
+Cyprus,FIRA Championship D2,239951,7,80,10,,239923,139,30,lost,1 Nov 2014,10,,Andorra,Paphos
+Andorra,FIRA Championship D2,240011,12,89,8,,239923,80,23,won,4 Apr 2015,18,,Hungary,Andorra la Vella
+Georgia,Tbilisi Cup,220931,12,214,13,,220925,81,16,lost,18 Jun 2014,26,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Argentina Jaguares,Tbilisi
+Georgia,Tbilisi Cup,259411,10,182835,5,,259383,81,12,lost,21 Jun 2015,45,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Emerging Ireland,Tbilisi
+Georgia,Rugby World Cup,182000,0,82,6,http://assets.espn.go.com/i/teamlogos/countries/500/nam.png,164205,81,17,lost,7 Oct 2015,16,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Namibia,Exeter
+Georgia,Tbilisi Cup,259407,3,204,3,,259383,81,10,lost,17 Jun 2015,26,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Emerging Italy,Tbilisi
+Latvia,FIRA Championship D2,240035,5,80,11,,239923,87,5,won,2 May 2015,14,,Andorra,Riga
+Georgia,Tbilisi Cup,220935,0,204,13,,220925,81,34,won,22 Jun 2014,10,http://assets.espn.go.com/i/teamlogos/countries/500/geo.png,Emerging Italy,Tbilisi
+Finland,FIRA Championship D2,242941,0,171355,17,,239923,74,20,won,23 May 2015,12,,Turkey,Helsinki
+Finland,FIRA Championship D2,273001,5,88,0,,239923,74,6,lost,3 Oct 2015,12,,Bosnia and Herzegovina,Helsinki
+Mexico,NACRA Rugby,225413,0,112,48,,225385,78,96,won,28 Jun 2014,0,,Turks and Caicos Islands,Mexico City
+Malta,FIRA Championship D2,239949,19,83,12,,239923,108,31,lost,1 Nov 2014,26,,Croatia,Paola
+Croatia,FIRA Championship D2,240013,5,91,9,,239923,83,9,lost,11 Apr 2015,12,,Czech Republic,Zagreb
+Croatia,FIRA Championship D2,190295,8,90,3,,168470,83,25,won,19 Apr 2014,21,,Lithuania,Zagreb
+Latvia,FIRA Championship D2,228585,10,83,3,,168470,87,10,won,21 Jun 2014,16,,Croatia,Rida
+Moldova,FIRA Championship D1,239955,17,84,10,,239921,94,29,lost,8 Nov 2014,15,,Ukraine,Chisinau
+Moldova,FIRA Championship D1,190281,14,84,5,,168469,94,28,lost,12 Apr 2014,8,,Ukraine,Chisinau
+Bosnia and Herzegovina,FIRA Championship D2,228581,5,85,23,,168470,88,12,won,7 Jun 2014,26,,Austria,Tesanj
+Latvia,FIRA Championship D2,273023,11,89,3,,239923,87,39,lost,31 Oct 2015,10,,Hungary,Riga
+Austria,FIRA Championship D2,240033,0,86,13,,239923,85,16,lost,25 Apr 2015,17,,Slovenia,Vienna
+Hungary,FIRA Championship D2,273015,15,90,10,,239923,89,15,lost,24 Oct 2015,37,,Lithuania,Esztergom
+Austria,FIRA Championship D2,190315,3,86,10,,168470,85,20,won,3 May 2014,8,,Slovenia,Vienna
+Hungary,FIRA Championship D2,190291,20,85,0,,168470,89,23,lost,12 Apr 2014,12,,Austria,Esztergom
+Cyprus,FIRA Championship D2,273029,3,87,18,,239923,139,3,won,7 Nov 2015,31,,Latvia,Paphos
+Turkey,FIRA Championship D2,242931,10,88,16,,239923,171355,25,won,25 Oct 2014,34,,Bosnia and Herzegovina,Edirne
+Czech Republic,FIRA Championship D2,239957,0,108,15,,239923,91,27,won,8 Nov 2014,13,,Malta,Prague
+Cyprus,FIRA Championship D2,240037,3,90,21,,239923,139,20,won,2 May 2015,26,,Lithuania,Paphos
+Bosnia and Herzegovina,FIRA Championship D2,273011,9,171355,10,,239923,88,24,won,17 Oct 2015,21,,Turkey,Zenica
+Latvia,FIRA Championship D2,239969,10,139,15,,239923,87,39,won,15 Nov 2014,20,,Cyprus,Riga
+Turks and Caicos Islands,NACRA Rugby,258711,-,92,-,,258685,112,7,won,18 Apr 2015,24,,Bahamas,Providenciales
+Turks and Caicos Islands,NACRA Rugby,225401,-,92,-,,225385,112,11,won,31 May 2014,13,,Bahamas,Providenciales
+Hungary,FIRA Championship D2,240009,5,139,9,,239923,89,15,lost,28 Mar 2015,17,,Cyprus,Szazhalombatta
+Hungary,FIRA Championship D2,239953,10,87,11,,239923,89,14,lost,2 Nov 2014,16,,Latvia,Esztergom
+Czech Republic,FIRA Championship D1,190301,0,94,15,,168469,91,37,won,26 Apr 2014,19,,Moldova,Prague
+Lithuania,FIRA Championship D2,239941,25,89,7,,239923,90,38,lost,25 Oct 2014,29,,Hungary,Siauliai
+Cyprus,FIRA Championship D2,190321,29,89,6,,168470,139,46,lost,17 May 2014,13,,Hungary,Paphos
+Algeria,Crescent Cup,265727,-,95,-,,265717,142722,26,lost,6 Jun 2015,5,,Kazakhstan,Melaka
+Algeria,Crescent Cup,265731,-,95,-,,265717,142722,15,lost,10 Jun 2015,0,,Kazakhstan,Melaka
+Kazakhstan,Crescent Cup,265733,-,113561,-,,265717,95,35,won,14 Jun 2015,25,,Lebanon,Melaka
+Botswana,African CAR Championship,229311,-,5,-,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,220517,100,9,lost,18 Jun 2014,54,,South Africa,Gaberone
+Lithuania,FIRA Championship D2,240029,18,87,6,,239923,90,46,lost,25 Apr 2015,11,,Latvia,Siauliai
+St Lucia,NACRA Rugby,258687,7,99,10,,258685,102,14,won,28 Feb 2015,22,,British Virgin Islands,Castries
+China,A5E3,262871,-,130,-,,265845,101,17,lost,10 Jun 2015,34,,Guam,Jakarta
+Botswana,African CAR Championship,229305,-,103,-,,220517,100,87,won,15 Jun 2014,0,,Swaziland,Gaberone
+China,A53E,222829,-,138,-,,222793,101,10,won,29 May 2014,6,,Indonesia,Vientiane
+British Virgin Islands,NACRA Rugby,260037,0,173647,12,,258685,99,19,won,2 May 2015,0,,Curacao,Tortola
+China,A53E,222833,-,130,-,,222793,101,41,won,31 May 2014,10,,Guam,Vientiane
+Colombia,South American Championship,239331,10,104,27,,239319,97,27,won,6 Sep 2014,10,,Venezuela,Antioquia
+Indonesia,A5E3,262867,13,101,7,,265845,138,21,won,13 Jun 2015,47,,China,Jakarta
+Colombia,South American Championship,239323,0,177673,66,,239319,97,112,won,31 Aug 2014,0,,Ecuador,Antioquia
+British Virgin Islands,NACRA Rugby,225411,-,102,-,,225385,99,18,lost,8 Jun 2014,29,,St Lucia,Tortola
+St Lucia,NACRA Rugby,228589,-,129,-,,225385,102,26,won,21 Jun 2014,22,,St Vincent and Grenadines,Castries
+St Lucia,NACRA Rugby,258699,10,129,0,,258685,102,8,lost,21 Mar 2015,16,,St Vincent and Grenadines,Castries
+St Vincent and Grenadines,NACRA Rugby,258713,-,99,-,,258685,129,15,won,18 Apr 2015,22,,British Virgin Islands,Kingstown
+British Virgin Islands,NACRA Rugby,225395,12,129,5,,225385,99,22,lost,17 May 2014,24,,St Vincent and Grenadines,Tortola
+India,A53W,222837,-,84916,-,,222797,105,17,lost,19 Jun 2014,23,,Uzbekistan,Lahore
+St Lucia,NACRA Rugby,258705,-,173647,-,,258685,102,19,lost,11 Apr 2015,36,,Curacao,Castries
+Ecuador,South American Championship,239325,0,104,54,,239319,177673,3,won,3 Sep 2014,68,,Venezuela,Antioquia
+Curacao,NACRA Rugby,228587,-,99,-,,225385,173647,42,lost,21 Jun 2014,12,,British Virgin Islands,Blue Bay
+Pakistan,A53W,222845,-,105,-,,222797,122,7,won,22 Jun 2014,25,,India,Lahore
+Uzbekistan,A5C3,262863,-,105,-,,262829,84916,8,won,27 May 2015,31,,India,Tashkent
+Uzbekistan,A5C3,262865,-,105,-,,262829,84916,32,lost,30 May 2015,12,,India,Tashkent
+Niger,African CAR Championship,229313,-,103,-,,220517,128,61,lost,18 Jun 2014,10,,Swaziland,Gaberone
+Mauritius,African CAR Championship,229319,-,103,-,,220517,132,134,lost,21 Jun 2014,0,,Swaziland,Gaberone
+Curacao,NACRA Rugby,225389,-,102,-,,225385,173647,56,lost,10 May 2014,7,,St Lucia,Blue Bay
+Brunei,Asian 5 Nations - Divisio,222843,-,126,-,,222795,106,20,lost,21 Jun 2014,25,,Cambodia,Bandar Seri Begawan
+Lesotho,African CAR Championship,264161,-,103,-,,264129,264121,13,lost,4 Jul 2015,10,,Swaziland,Maseru
+Niger,African CAR Championship,264157,-,111,-,,264129,128,50,lost,30 May 2015,15,,Togo,Ouagadougou
+Ghana,African CAR Championship,264145,-,128,-,,264129,116,10,lost,24 May 2015,28,,Niger,Ouagadougou
+Burkina Faso,African CAR Championship,264141,31,115,0,,264129,120,67,lost,24 May 2015,3,,Benin,Ouagadougou
+Mali,African CAR Championship,264143,-,111,-,,264129,117,31,lost,24 May 2015,12,,Togo,Ouagadougou
+Burkina Faso,African CAR Championship,264151,8,111,7,,264129,120,20,lost,27 May 2015,7,,Togo,Ouagadougou
+Benin,African CAR Championship,264149,-,128,-,,264129,115,5,lost,27 May 2015,82,,Niger,Ouagadougou
+Ghana,African CAR Championship,264147,-,117,-,,264129,116,7,lost,27 May 2015,24,,Mali,Ouagadougou
+Brunei,Asian 5 Nations - Divisio,222835,-,98077,-,,222795,106,13,lost,17 Jun 2014,38,,Mongolia,Bandar Seri Begawan
+Benin,African CAR Championship,264159,-,117,-,,264129,115,5,lost,30 May 2015,60,,Mali,Ouagadougou
+DR Congo,African CAR Championship,267301,-,114,-,,264129,142721,29,lost,30 Jun 2015,3,,Rwanda,Kinshasa
+Rwanda,African CAR Championship,229295,-,142721,-,,229291,114,5,lost,7 Jun 2014,9,,DR Congo,Kigali
+Pakistan,A53W,222839,-,113561,-,,222797,122,3,lost,19 Jun 2014,17,,Lebanon,Lahore
+Cambodia,Asian 5 Nations - Divisio,222841,-,98077,-,,222795,126,5,lost,19 Jun 2014,49,,Mongolia,Bandar Seri Begawan
+Rwanda,African CAR Championship,229293,-,113,-,,229291,114,15,won,3 Jun 2014,6,,Burundi,Kigali
+Niger,African CAR Championship,229321,-,5,-,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,220517,128,10,lost,21 Jun 2014,86,,South Africa,Gaberone
+Burkina Faso,African CAR Championship,264155,-,116,-,,264129,120,12,lost,30 May 2015,0,,Ghana,Ouagadougou
+Panama,South American Championship,242921,24,177675,0,,242909,124,19,lost,8 Oct 2014,24,,Guatemala,Panama
+Costa Rica,South American Championship,242927,0,177675,19,,242909,123,22,won,11 Oct 2014,17,,Guatemala,Panama
+Costa Rica,South American Championship,242923,17,177674,7,,242909,123,14,lost,8 Oct 2014,25,,El Salvador,Panama
+Panama,South American Championship,242919,5,123,5,,242909,124,10,won,5 Oct 2014,18,,Costa Rica,Panama
+Mauritius,African CAR Championship,229307,-,5,-,http://assets.espn.go.com/i/teamlogos/countries/500/rsa.png,220517,132,17,lost,15 Jun 2014,61,,South Africa,Gaberone
+Panama,South American Championship,242925,19,177674,0,,242909,124,3,lost,11 Oct 2014,29,,El Salvador,Panama
+Curacao,NACRA Rugby,258695,0,129,19,,258685,173647,24,draw,7 Mar 2015,24,,St Vincent and Grenadines,Blue Bay
+St Vincent and Grenadines,NACRA Rugby,225409,-,173647,-,,225385,129,12,lost,8 Jun 2014,19,,Curacao,Kingstown
+Indonesia,A5E3,262869,3,130,10,,265845,138,6,won,7 Jun 2015,17,,Guam,Jakarta
+Montenegro,FIRA Championship D3,262127,19,134,0,,262109,262051,31,lost,14 Apr 2015,3,,Slovakia,Podgorica
+Presidents XV,FIRA Championship D3,262123,0,134,38,,262109,164,0,won,11 Apr 2015,82,,Slovakia,Podgorica
+Laos,A53E,222827,-,130,-,,222793,124783,10,won,29 May 2014,48,,Guam,Vientiane
+Laos,A53E,222831,-,138,-,,222793,124783,10,won,31 May 2014,11,,Indonesia,Vientiane

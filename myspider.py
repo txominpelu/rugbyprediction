@@ -17,9 +17,11 @@ class MatchItem(scrapy.Item):
     home_name = scrapy.Field()
     home_id = scrapy.Field()
     home_score = scrapy.Field()
+    home_logo = scrapy.Field()
     away_name = scrapy.Field()
     away_score = scrapy.Field()
     away_id = scrapy.Field()
+    away_logo = scrapy.Field()
     competition_name = scrapy.Field()
  
 
@@ -60,6 +62,8 @@ class BlogSpider(scrapy.Spider):
     def parse_team(self, json, item, prefix):
         item["{0}_name".format(prefix)] = json['team']['displayName']
         item["{0}_id".format(prefix)] = json['team']['id']
+	logos = json['team']['logos']
+        item["{0}_logo".format(prefix)] = logos[0]['href'] if len(logos) > 0 else ""
         item["{0}_score".format(prefix)] = json['score']
         return item
 
