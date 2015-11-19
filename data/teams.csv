@@ -1,0 +1,101 @@
+,team_id,team_name,abbreviation,altId,id,name
+0,1,England,ENG,,34,England
+1,2,Scotland,SCO,,35,Scotland
+2,3,Ireland,IRE,,36,Ireland
+3,4,Wales,WAL,,33,Wales
+4,5,South Africa,RSA,,39,South Africa
+5,6,Australia,AUS,,38,Australia
+6,8,New Zealand,NZL,,37,New Zealand
+7,12,Romania,ROM,,52,Romania
+8,13,Poland,POL,,753,Poland
+9,14,Fiji,FJI,,46,Fiji
+10,15,Samoa,SAM,,45,Samoa
+11,18,Spain,ESP,,43,Spain
+12,20,Italy,ITA,,41,Italy
+13,24,Morocco,MAR,,745,Morocco
+14,30,Denmark,DEN,,715,Denmark
+15,35,Kenya,KEN,,735,Kenya
+16,42,Zimbabwe,ZIM,,57,Zimbabwe
+17,64,Tunisia,TUN,,775,Tunisia
+18,73,Barbados,BRB,,698,Barbados
+19,84,Ukraine,UKR,,777,Ukraine
+20,90,Lithuania,LTU,,738,Lithuania
+21,91,Czech Republic,CZE,,714,Czech Republic
+22,94,Moldova,MDA,,743,Moldova
+23,98,Monaco,MON,,744,Monaco
+24,108,Malta,MLT,,1030,Malta
+25,7,Germany,GER,,721,Germany
+26,9,France,FRA,,42,France
+27,10,Argentina,ARG,,40,Argentina
+28,27,Portugal,POR,,44,Portugal
+29,28,Chile,CHL,,708,Chile
+30,31,Sweden,SWE,,769,Sweden
+31,41,Bulgaria,BUL,,704,Bulgaria
+32,57,Russia,RUS,,756,Russia
+33,72,Israel,ISR,,729,Israel
+34,81,Georgia,GEO,,720,Georgia
+35,82,Namibia,NAM,,58,Namibia
+36,105,India,IND,,727,India
+37,16,Tonga,TGA,,47,Tonga
+38,17,Sri Lanka,SRI,,766,Sri Lanka
+39,23,Japan,JPN,,49,Japan
+40,25,Canada,CAN,,50,Canada
+41,26,Hong Kong,HKG,,725,Hong Kong
+42,29,Uruguay,URU,,68,Uruguay
+43,39,Uganda,UGA,,776,Uganda
+44,40,Peru,PER,,752,Peru
+45,49,Korea,KOR,,736,Korea
+46,51,Singapore,SIN,,760,Singapore
+47,89,Hungary,HUN,,726,Hungary
+48,97,Colombia,COL,,711,Colombia
+49,104,Venezuela,VEN,,781,Venezuela
+50,136,Philippines,PHP,,2537,Philippines
+51,133753,United Arab Emirates,UAE,,3223,United Arab Emirates
+52,48,Chinese Taipei,TPE,,710,Chinese Taipei
+53,70,Trinidad and Tobago,TRI,,774,Trinidad & Tobago
+54,132,Mauritius,MUS,,2857,Mauritius
+55,21,Belgium,BEL,,699,Belgium
+56,56,Switzerland,SUI,,770,Switzerland
+57,61,Luxembourg,LUX,,739,Luxembourg
+58,85,Austria,AUT,,696,Austria
+59,87,Latvia,LAT,,737,Latvia
+60,88,Bosnia and Herzegovina,BIH,,701,Bosnia & Herzegovina
+61,22,Netherlands,NED,,64,Netherlands
+62,68,Norway,NOR,,749,Norway
+63,80,Andorra,AND,,692,Andorra
+64,83,Croatia,CRO,,713,Croatia
+65,86,Slovenia,SVN,,761,Slovenia
+66,95,Kazakhstan,KAZ,,734,Kazakhstan
+67,100,Botswana,BWA,,702,Botswana
+68,133,Greece,HEL,,2529,Greece
+69,38,Thailand,THA,,772,Thailand
+70,103,Swaziland,SWZ,,768,Swaziland
+71,33,Brazil,BRA,,703,Brazil
+72,52,Madagascar,MAD,,740,Madagascar
+73,53,Paraguay,PAR,,751,Paraguay
+74,67,Senegal,SEN,,759,Senegal
+75,54,Cook Islands,COK,,712,Cook Islands
+76,74,Finland,FIN,,1029,Finland
+77,138,Indonesia,IDO,,2576,Indonesia
+78,45,Papua New Guinea,PNG,,750,Papua New Guinea
+79,50,Solomon Islands,SOL,,762,Solomon Islands
+80,69,Guyana,GUY,,723,Guyana
+81,92,Bahamas,BHS,,697,Bahamas
+82,36,Malaysia,MAS,,741,Malaysia
+83,109,Vanuatu,VAN,,780,Vanuatu
+84,62,Zambia,ZAM,,784,Zambia
+85,59,Bermuda,BER,,700,Bermuda
+86,60,Jamaica,JAM,,732,Jamaica
+87,77,Cayman Islands,CAY,,707,Cayman Islands
+88,78,Mexico,MEX,,1247,Mexico
+89,101,China,CHN,,709,China
+90,130,Guam,GUM,,722,Guam
+91,75,Niue Island,NIU,,748,Niue Island
+92,79,Nigeria,NGA,,1031,Nigeria
+93,79,Nigeria,SRB,,2340,Serbia
+94,110,Cameroon,CAM,,705,Cameroon
+95,129,St Vincent and Grenadines,SVG,,2476,St Vincent and the Grenadines
+96,122,Pakistan,PAK,,2397,Pakistan
+97,272969,American Samoa,ASM,,3674,American Samoa
+98,55,Tahiti,PYF,,771,Tahiti
+99,84916,Uzbekistan,UZB,,2861,Uzbekistan
