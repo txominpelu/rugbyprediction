@@ -1,101 +1,199 @@
-,team_id,team_name,abbreviation,altId,id,name
-0,1,England,ENG,,34,England
-1,2,Scotland,SCO,,35,Scotland
-2,3,Ireland,IRE,,36,Ireland
-3,4,Wales,WAL,,33,Wales
-4,5,South Africa,RSA,,39,South Africa
-5,6,Australia,AUS,,38,Australia
-6,8,New Zealand,NZL,,37,New Zealand
-7,12,Romania,ROM,,52,Romania
-8,13,Poland,POL,,753,Poland
-9,14,Fiji,FJI,,46,Fiji
-10,15,Samoa,SAM,,45,Samoa
-11,18,Spain,ESP,,43,Spain
-12,20,Italy,ITA,,41,Italy
-13,24,Morocco,MAR,,745,Morocco
-14,30,Denmark,DEN,,715,Denmark
-15,35,Kenya,KEN,,735,Kenya
-16,42,Zimbabwe,ZIM,,57,Zimbabwe
-17,64,Tunisia,TUN,,775,Tunisia
-18,73,Barbados,BRB,,698,Barbados
-19,84,Ukraine,UKR,,777,Ukraine
-20,90,Lithuania,LTU,,738,Lithuania
-21,91,Czech Republic,CZE,,714,Czech Republic
-22,94,Moldova,MDA,,743,Moldova
-23,98,Monaco,MON,,744,Monaco
-24,108,Malta,MLT,,1030,Malta
-25,7,Germany,GER,,721,Germany
-26,9,France,FRA,,42,France
-27,10,Argentina,ARG,,40,Argentina
-28,27,Portugal,POR,,44,Portugal
-29,28,Chile,CHL,,708,Chile
-30,31,Sweden,SWE,,769,Sweden
-31,41,Bulgaria,BUL,,704,Bulgaria
-32,57,Russia,RUS,,756,Russia
-33,72,Israel,ISR,,729,Israel
-34,81,Georgia,GEO,,720,Georgia
-35,82,Namibia,NAM,,58,Namibia
-36,105,India,IND,,727,India
-37,16,Tonga,TGA,,47,Tonga
-38,17,Sri Lanka,SRI,,766,Sri Lanka
-39,23,Japan,JPN,,49,Japan
-40,25,Canada,CAN,,50,Canada
-41,26,Hong Kong,HKG,,725,Hong Kong
-42,29,Uruguay,URU,,68,Uruguay
-43,39,Uganda,UGA,,776,Uganda
-44,40,Peru,PER,,752,Peru
-45,49,Korea,KOR,,736,Korea
-46,51,Singapore,SIN,,760,Singapore
-47,89,Hungary,HUN,,726,Hungary
-48,97,Colombia,COL,,711,Colombia
-49,104,Venezuela,VEN,,781,Venezuela
-50,136,Philippines,PHP,,2537,Philippines
-51,133753,United Arab Emirates,UAE,,3223,United Arab Emirates
-52,48,Chinese Taipei,TPE,,710,Chinese Taipei
-53,70,Trinidad and Tobago,TRI,,774,Trinidad & Tobago
-54,132,Mauritius,MUS,,2857,Mauritius
-55,21,Belgium,BEL,,699,Belgium
-56,56,Switzerland,SUI,,770,Switzerland
-57,61,Luxembourg,LUX,,739,Luxembourg
-58,85,Austria,AUT,,696,Austria
-59,87,Latvia,LAT,,737,Latvia
-60,88,Bosnia and Herzegovina,BIH,,701,Bosnia & Herzegovina
-61,22,Netherlands,NED,,64,Netherlands
-62,68,Norway,NOR,,749,Norway
-63,80,Andorra,AND,,692,Andorra
-64,83,Croatia,CRO,,713,Croatia
-65,86,Slovenia,SVN,,761,Slovenia
-66,95,Kazakhstan,KAZ,,734,Kazakhstan
-67,100,Botswana,BWA,,702,Botswana
-68,133,Greece,HEL,,2529,Greece
-69,38,Thailand,THA,,772,Thailand
-70,103,Swaziland,SWZ,,768,Swaziland
-71,33,Brazil,BRA,,703,Brazil
-72,52,Madagascar,MAD,,740,Madagascar
-73,53,Paraguay,PAR,,751,Paraguay
-74,67,Senegal,SEN,,759,Senegal
-75,54,Cook Islands,COK,,712,Cook Islands
-76,74,Finland,FIN,,1029,Finland
-77,138,Indonesia,IDO,,2576,Indonesia
-78,45,Papua New Guinea,PNG,,750,Papua New Guinea
-79,50,Solomon Islands,SOL,,762,Solomon Islands
-80,69,Guyana,GUY,,723,Guyana
-81,92,Bahamas,BHS,,697,Bahamas
-82,36,Malaysia,MAS,,741,Malaysia
-83,109,Vanuatu,VAN,,780,Vanuatu
-84,62,Zambia,ZAM,,784,Zambia
-85,59,Bermuda,BER,,700,Bermuda
-86,60,Jamaica,JAM,,732,Jamaica
-87,77,Cayman Islands,CAY,,707,Cayman Islands
-88,78,Mexico,MEX,,1247,Mexico
-89,101,China,CHN,,709,China
-90,130,Guam,GUM,,722,Guam
-91,75,Niue Island,NIU,,748,Niue Island
-92,79,Nigeria,NGA,,1031,Nigeria
-93,79,Nigeria,SRB,,2340,Serbia
-94,110,Cameroon,CAM,,705,Cameroon
-95,129,St Vincent and Grenadines,SVG,,2476,St Vincent and the Grenadines
-96,122,Pakistan,PAK,,2397,Pakistan
-97,272969,American Samoa,ASM,,3674,American Samoa
-98,55,Tahiti,PYF,,771,Tahiti
-99,84916,Uzbekistan,UZB,,2861,Uzbekistan
+;team_id;team_name
+0;1;England
+2;2;Scotland
+4;3;Ireland
+5;4;Wales
+6;5;South Africa
+7;6;Australia
+11;8;New Zealand
+13;11;United States of America
+14;12;Romania
+15;13;Poland
+17;14;Fiji
+18;15;Samoa
+20;18;Spain
+22;20;Italy
+24;24;Morocco
+25;30;Denmark
+26;35;Kenya
+27;42;Zimbabwe
+29;63;Ivory Coast
+30;64;Tunisia
+31;73;Barbados
+32;84;Ukraine
+34;90;Lithuania
+36;91;Czech Republic
+37;94;Moldova
+38;98;Monaco
+39;108;Malta
+47;7;Germany
+48;9;France
+49;10;Argentina
+56;27;Portugal
+58;28;Chile
+60;31;Sweden
+61;41;Bulgaria
+62;47;Serbia and Montenegro
+63;57;Russia
+65;72;Israel
+66;81;Georgia
+67;82;Namibia
+70;105;India
+71;113;Burundi
+72;114;Rwanda
+73;116;Ghana
+74;119;Armenia
+75;121;Pacific Islanders
+76;197;Scotland A
+77;219;England A
+88;16;Tonga
+90;17;Sri Lanka
+91;23;Japan
+93;25;Canada
+94;26;Hong Kong
+97;29;Uruguay
+99;39;Uganda
+100;40;Peru
+103;49;Korea
+105;51;Singapore
+108;89;Hungary
+109;97;Colombia
+110;104;Venezuela
+111;136;Philippines
+112;139;Cyprus
+113;133753;United Arab Emirates
+131;48;Chinese Taipei
+137;70;Trinidad and Tobago
+143;132;Mauritius
+150;21;Belgium
+158;56;Switzerland
+160;61;Luxembourg
+161;85;Austria
+163;87;Latvia
+164;88;Bosnia and Herzegovina
+175;22;Netherlands
+185;68;Norway
+186;80;Andorra
+188;83;Croatia
+193;86;Slovenia
+194;95;Kazakhstan
+195;96;Reunion
+196;100;Botswana
+200;115;Benin
+201;128;Niger
+202;133;Greece
+224;38;Thailand
+239;103;Swaziland
+259;33;Brazil
+263;52;Madagascar
+264;53;Paraguay
+275;111;Togo
+281;137;Mayotte
+282;214;Argentina Jaguares
+283;173646;USA South Panthers
+297;37;Tanzania
+305;67;Senegal
+311;93;Arabian Gulf
+314;99;British Virgin Islands
+318;117;Mali
+319;120;Burkina Faso
+320;125;Azerbaijan
+336;43;New Caledonia
+341;54;Cook Islands
+345;74;Finland
+354;107;Dominican Republic
+356;138;Indonesia
+375;45;Papua New Guinea
+377;50;Solomon Islands
+381;69;Guyana
+391;134;Slovakia
+392;173647;Curacao
+434;92;Bahamas
+442;126;Cambodia
+444;223;CAR African Barbarians
+445;226;South Africa Amateur
+466;36;Malaysia
+478;204;Emerging Italy
+480;171355;Turkey
+528;113561;Lebanon
+572;109;Vanuatu
+578;135;Chad
+605;62;Zambia
+649;123;Costa Rica
+719;144;French Military
+739;59;Bermuda
+740;60;Jamaica
+746;77;Cayman Islands
+774;78;Mexico
+781;101;China
+785;106;Brunei
+786;130;Guam
+787;84914;Iran
+788;124783;Laos
+803;75;Niue Island
+804;79;Nigeria
+809;110;Cameroon
+813;129;St Vincent and Grenadines
+878;122;Pakistan
+931;142;New Zealand Maori
+1074;118;Mauritania
+1080;157;Junior All Blacks
+1081;264123;Malawi
+1279;212;South Africa Under-23s
+1347;206;Ireland A
+1382;160;Barbarians
+1507;102;St Lucia
+1512;272969;American Samoa
+1543;177673;Ecuador
+1584;117532;Estonia
+1748;221;Japan A
+1750;182835;Emerging Ireland
+1913;225;South Africa Students
+2007;142723;Egypt
+2008;142724;Libya
+2098;162;Italy A
+2134;112;Turks and Caicos Islands
+2239;124;Panama
+2242;176163;US Virgin Islands
+2243;267121;Zimbabwe Under-23s
+2316;213;French Universities
+2317;230;Emerging Springboks
+2403;84917;Kibubu RFC
+2404;138785;Qatar
+2474;177674;El Salvador
+2475;177675;Guatemala
+2519;215;South Africa A
+2687;149;British Army
+2812;218;Australia A
+2924;55;Tahiti
+2974;229;Wales Districts
+2976;103199;Thanet Wanderers
+3114;217;France Amateur
+3380;118084;Kenya A
+3459;211;Cayman Islands B
+3461;98077;Mongolia
+3758;32;British and Irish Lions
+3859;264121;Lesotho
+3903;220;Namibia A
+4036;145183;Mali A
+4619;164;Presidents XV
+4620;262051;Montenegro
+4621;264769;Fiji Warriors
+4827;142721;DR Congo
+4992;84918;Hong Kong A
+5064;184560;Classic All Blacks
+5169;99892;Togo B
+5303;227;New South Wales Waratahs
+5305;142722;Algeria
+5381;84916;Uzbekistan
+5681;118085;Uganda A
+6430;183;France A
+6512;185627;South Africa President's XV
+6618;127;Macau
+6752;247987;South Africa Kings
+6824;131;African Leopards
+7047;103719;Kendal
+7142;84920;Germany Under-21s
+7321;102183;Wales Development XV
+7668;200;Wales B
+7730;115004;Vienna

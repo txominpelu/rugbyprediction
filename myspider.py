@@ -45,7 +45,6 @@ class BlogSpider(scrapy.Spider):
 
         for site in sites:
             item = MatchItem()
-            item['result'] = site.xpath('td[1]/text()').extract()
             item['htf'] = site.xpath('td[5]/text()').extract()[0]
             item['hta'] = site.xpath('td[6]/text()').extract()[0]
             item['ground'] = site.xpath('td[9]/a/text()').extract()[0]
@@ -67,6 +66,14 @@ class BlogSpider(scrapy.Spider):
         item["{0}_score".format(prefix)] = json['score']
         return item
 
+    def result(self, item):
+        if item['home_score'] > item['away_score']:
+            return 'home'
+        elif item['home_score'] == item['away_score']:
+            return 'draw'
+        else:
+            return 'away'
+
     def parse_match(self, response):
 	item = MatchItem(response.meta["item"])
 	js = json.loads(response.body_as_unicode())
@@ -76,5 +83,6 @@ class BlogSpider(scrapy.Spider):
 	item['gameId'] = js['header']['id']
 	item['league'] = js['header']['league']['id']
 	item['competition_name'] = js['header']['league']['abbreviation']
-	yield item
+        item['result'] = self.result(item)
+ 	yield item
 
